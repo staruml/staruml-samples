@@ -1,0 +1,4455 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "C4 Examples",
+	"ownedElements": [
+		{
+			"_type": "C4Model",
+			"_id": "AAAAAAGIIcF2/0fLrtE=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Internet Banking System",
+			"ownedElements": [
+				{
+					"_type": "C4Diagram",
+					"_id": "AAAAAAGIIcF2/0fMTc0=",
+					"_parent": {
+						"$ref": "AAAAAAGIIcF2/0fLrtE="
+					},
+					"name": "System Context Diagram",
+					"ownedViews": [
+						{
+							"_type": "C4PersonView",
+							"_id": "AAAAAAGIIcH34kfULkQ=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"model": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcH34kfVbWQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcH34kfULkQ="
+									},
+									"fillColor": "#6dceff",
+									"font": "Arial;13;1",
+									"left": 48,
+									"top": 168,
+									"width": 129,
+									"height": 26,
+									"text": "Personal Banking Customer",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcH34kfWDNs=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcH34kfULkQ="
+									},
+									"fillColor": "#6dceff",
+									"font": "Arial;13;0",
+									"left": 48,
+									"top": 198,
+									"width": 129,
+									"height": 13,
+									"text": "[Person]",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcH34kfXS/o=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcH34kfULkQ="
+									},
+									"fillColor": "#6dceff",
+									"font": "Arial;13;0",
+									"left": 48,
+									"top": 227,
+									"width": 129,
+									"height": 39,
+									"text": "A customer of the bank, with personal bank accounts.",
+									"wordWrap": true
+								}
+							],
+							"fillColor": "#6dceff",
+							"font": "Arial;13;0",
+							"left": 40,
+							"top": 104,
+							"width": 145,
+							"height": 170,
+							"nameLabel": {
+								"$ref": "AAAAAAGIIcH34kfVbWQ="
+							},
+							"technologyLabel": {
+								"$ref": "AAAAAAGIIcH34kfWDNs="
+							},
+							"descriptionLabel": {
+								"$ref": "AAAAAAGIIcH34kfXS/o="
+							}
+						},
+						{
+							"_type": "C4SoftwareSystemView",
+							"_id": "AAAAAAGIIcs8OT51CUs=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"model": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcs8OT527mw=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcs8OT51CUs="
+									},
+									"fillColor": "#6dceff",
+									"font": "Arial;13;1",
+									"left": 48,
+									"top": 368,
+									"width": 128,
+									"height": 26,
+									"text": "Internet Banking System",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcs8OT53hGc=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcs8OT51CUs="
+									},
+									"fillColor": "#6dceff",
+									"font": "Arial;13;0",
+									"left": 48,
+									"top": 398,
+									"width": 128,
+									"height": 13,
+									"text": "[Software System]",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcs8OT54vs0=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcs8OT51CUs="
+									},
+									"fillColor": "#6dceff",
+									"font": "Arial;13;0",
+									"left": 48,
+									"top": 427,
+									"width": 128,
+									"height": 65,
+									"text": "Allows customers to view information about their bank accounts, and make payments.",
+									"wordWrap": true
+								}
+							],
+							"fillColor": "#6dceff",
+							"font": "Arial;13;0",
+							"left": 40,
+							"top": 360,
+							"width": 144,
+							"height": 140,
+							"nameLabel": {
+								"$ref": "AAAAAAGIIcs8OT527mw="
+							},
+							"technologyLabel": {
+								"$ref": "AAAAAAGIIcs8OT53hGc="
+							},
+							"descriptionLabel": {
+								"$ref": "AAAAAAGIIcs8OT54vs0="
+							}
+						},
+						{
+							"_type": "C4SoftwareSystemView",
+							"_id": "AAAAAAGIIcvcGD6Fmh0=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"model": {
+								"$ref": "AAAAAAGIIcvcGD6DCDE="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcvcGD6GYOQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcvcGD6Fmh0="
+									},
+									"fillColor": "#c6c6c6",
+									"font": "Arial;13;1",
+									"left": 360,
+									"top": 368,
+									"width": 128,
+									"height": 13,
+									"text": "E-mail System",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcvcGD6HPDo=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcvcGD6Fmh0="
+									},
+									"fillColor": "#c6c6c6",
+									"font": "Arial;13;0",
+									"left": 360,
+									"top": 385,
+									"width": 128,
+									"height": 13,
+									"text": "[Software System]",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcvcGD6IjsA=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcvcGD6Fmh0="
+									},
+									"fillColor": "#c6c6c6",
+									"font": "Arial;13;0",
+									"left": 360,
+									"top": 414,
+									"width": 128,
+									"height": 39,
+									"text": "The internal Microsoft Exchange e-mail system.",
+									"wordWrap": true
+								}
+							],
+							"fillColor": "#c6c6c6",
+							"font": "Arial;13;0",
+							"left": 352,
+							"top": 360,
+							"width": 144,
+							"height": 130,
+							"nameLabel": {
+								"$ref": "AAAAAAGIIcvcGD6GYOQ="
+							},
+							"technologyLabel": {
+								"$ref": "AAAAAAGIIcvcGD6HPDo="
+							},
+							"descriptionLabel": {
+								"$ref": "AAAAAAGIIcvcGD6IjsA="
+							}
+						},
+						{
+							"_type": "C4SoftwareSystemView",
+							"_id": "AAAAAAGIIcxS1z6VuhU=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"model": {
+								"$ref": "AAAAAAGIIcxS1z6TlkI="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcxS1z6Wa88=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcxS1z6VuhU="
+									},
+									"fillColor": "#c6c6c6",
+									"font": "Arial;13;1",
+									"left": 48,
+									"top": 608,
+									"width": 128,
+									"height": 26,
+									"text": "Mainframe Banking System",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcxS1z6XdFA=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcxS1z6VuhU="
+									},
+									"fillColor": "#c6c6c6",
+									"font": "Arial;13;0",
+									"left": 48,
+									"top": 638,
+									"width": 128,
+									"height": 13,
+									"text": "[Software System]",
+									"wordWrap": true
+								},
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIIcxS1z6YRAc=",
+									"_parent": {
+										"$ref": "AAAAAAGIIcxS1z6VuhU="
+									},
+									"fillColor": "#c6c6c6",
+									"font": "Arial;13;0",
+									"left": 48,
+									"top": 667,
+									"width": 128,
+									"height": 65,
+									"text": "Stores all of the core banking information about customers, accounts, transactions, etc.",
+									"wordWrap": true
+								}
+							],
+							"fillColor": "#c6c6c6",
+							"font": "Arial;13;0",
+							"left": 40,
+							"top": 600,
+							"width": 144,
+							"height": 140,
+							"nameLabel": {
+								"$ref": "AAAAAAGIIcxS1z6Wa88="
+							},
+							"technologyLabel": {
+								"$ref": "AAAAAAGIIcxS1z6XdFA="
+							},
+							"descriptionLabel": {
+								"$ref": "AAAAAAGIIcxS1z6YRAc="
+							}
+						},
+						{
+							"_type": "C4RelationshipView",
+							"_id": "AAAAAAGIIc1k7j68wmA=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"model": {
+								"$ref": "AAAAAAGIIc1k7j66mUY="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGIIc1k7j694sg=",
+									"_parent": {
+										"$ref": "AAAAAAGIIc1k7j68wmA="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIc1k7j66mUY="
+									},
+									"font": "Arial;13;0",
+									"left": 63,
+									"top": 290,
+									"width": 98,
+									"height": 52,
+									"alpha": 0.7854028407918032,
+									"distance": 1.4142135623730951,
+									"hostEdge": {
+										"$ref": "AAAAAAGIIc1k7j68wmA="
+									},
+									"edgePosition": 1,
+									"text": "Views account balances, and makes payments using",
+									"wordWrap": true
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGIIc1k7j6+nzg=",
+									"_parent": {
+										"$ref": "AAAAAAGIIc1k7j68wmA="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIc1k7j66mUY="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 92,
+									"top": 310,
+									"width": 8.865997314453125,
+									"height": 13,
+									"alpha": -1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGIIc1k7j68wmA="
+									},
+									"edgePosition": 1,
+									"text": "[]"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIIcs8OT51CUs="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIIcH34kfULkQ="
+							},
+							"lineStyle": 1,
+							"points": "112:274;111:359",
+							"descriptionLabel": {
+								"$ref": "AAAAAAGIIc1k7j694sg="
+							},
+							"technologyLabel": {
+								"$ref": "AAAAAAGIIc1k7j6+nzg="
+							}
+						},
+						{
+							"_type": "C4RelationshipView",
+							"_id": "AAAAAAGIIdKS3rGfHL8=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"model": {
+								"$ref": "AAAAAAGIIdKS3rGdHfg="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGIIdKS3rGgENQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIIdKS3rGfHL8="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIdKS3rGdHfg="
+									},
+									"font": "Arial;13;0",
+									"left": 211,
+									"top": 398,
+									"width": 110.55712890625,
+									"height": 26,
+									"alpha": 1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGIIdKS3rGfHL8="
+									},
+									"edgePosition": 1,
+									"text": "Sends e-mail using",
+									"wordWrap": true
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGIIdKS3rGh3Xw=",
+									"_parent": {
+										"$ref": "AAAAAAGIIdKS3rGfHL8="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIdKS3rGdHfg="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 263,
+									"top": 434,
+									"width": 8.865997314453125,
+									"height": 13,
+									"alpha": -1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGIIdKS3rGfHL8="
+									},
+									"edgePosition": 1,
+									"text": "[]"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIIcvcGD6Fmh0="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIIcs8OT51CUs="
+							},
+							"lineStyle": 1,
+							"points": "184:428;351:425",
+							"descriptionLabel": {
+								"$ref": "AAAAAAGIIdKS3rGgENQ="
+							},
+							"technologyLabel": {
+								"$ref": "AAAAAAGIIdKS3rGh3Xw="
+							}
+						},
+						{
+							"_type": "C4RelationshipView",
+							"_id": "AAAAAAGIIdOMvYOm124=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"model": {
+								"$ref": "AAAAAAGIIdOMvIOkVbE="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGIIdOMvYOnEGc=",
+									"_parent": {
+										"$ref": "AAAAAAGIIdOMvYOm124="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIdOMvIOkVbE="
+									},
+									"font": "Arial;13;0",
+									"left": 44,
+									"top": 524,
+									"width": 129,
+									"height": 52,
+									"alpha": -1.2490449851612118,
+									"distance": 3.1622776601683795,
+									"hostEdge": {
+										"$ref": "AAAAAAGIIdOMvYOm124="
+									},
+									"edgePosition": 1,
+									"text": "Gets account information from, and makes payments using",
+									"wordWrap": true
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGIIdOMvYOoAIQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIIdOMvYOm124="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIdOMvIOkVbE="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 92,
+									"top": 543,
+									"width": 8.865997314453125,
+									"height": 13,
+									"alpha": -1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGIIdOMvYOm124="
+									},
+									"edgePosition": 1,
+									"text": "[]"
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIIcxS1z6VuhU="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIIcs8OT51CUs="
+							},
+							"lineStyle": 1,
+							"points": "111:500;111:599",
+							"descriptionLabel": {
+								"$ref": "AAAAAAGIIdOMvYOnEGc="
+							},
+							"technologyLabel": {
+								"$ref": "AAAAAAGIIdOMvYOoAIQ="
+							}
+						},
+						{
+							"_type": "C4RelationshipView",
+							"_id": "AAAAAAGIIdlqRnw+gYI=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"model": {
+								"$ref": "AAAAAAGIIdlqRXw8AYU="
+							},
+							"subViews": [
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGIIdlqRnw/NwU=",
+									"_parent": {
+										"$ref": "AAAAAAGIIdlqRnw+gYI="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIdlqRXw8AYU="
+									},
+									"font": "Arial;13;0",
+									"left": 235,
+									"top": 301,
+									"width": 78,
+									"height": 26,
+									"alpha": 2.9163699901939193,
+									"distance": 10.63014581273465,
+									"hostEdge": {
+										"$ref": "AAAAAAGIIdlqRnw+gYI="
+									},
+									"edgePosition": 1,
+									"text": "Sends e-mails to",
+									"wordWrap": true
+								},
+								{
+									"_type": "EdgeLabelView",
+									"_id": "AAAAAAGIIdlqRnxAZTg=",
+									"_parent": {
+										"$ref": "AAAAAAGIIdlqRnw+gYI="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIdlqRXw8AYU="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"left": 273,
+									"top": 288,
+									"width": 8.865997314453125,
+									"height": 13,
+									"alpha": -1.5707963267948966,
+									"distance": 15,
+									"hostEdge": {
+										"$ref": "AAAAAAGIIdlqRnw+gYI="
+									},
+									"edgePosition": 1,
+									"text": "[]",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIIcH34kfULkQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIIcvcGD6Fmh0="
+							},
+							"lineStyle": 1,
+							"points": "351:369;185:243",
+							"descriptionLabel": {
+								"$ref": "AAAAAAGIIdlqRnw/NwU="
+							},
+							"technologyLabel": {
+								"$ref": "AAAAAAGIIdlqRnxAZTg="
+							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGIIgctcKuqVxk=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"font": "Arial;20;0",
+							"left": 16,
+							"top": 16,
+							"width": 457,
+							"height": 32,
+							"text": "[System Context] Internet Banking System"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGIIhCj9T7HyVc=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcF2/0fMTc0="
+							},
+							"font": "Arial;13;0",
+							"left": 16,
+							"top": 48,
+							"width": 369,
+							"height": 25,
+							"text": "The system context diagram for the Internet Banking System"
+						}
+					]
+				},
+				{
+					"_type": "C4Person",
+					"_id": "AAAAAAGIIcH34kfSFI0=",
+					"_parent": {
+						"$ref": "AAAAAAGIIcF2/0fLrtE="
+					},
+					"name": "Personal Banking Customer",
+					"ownedElements": [
+						{
+							"_type": "C4Relationship",
+							"_id": "AAAAAAGIIc1k7j66mUY=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"source": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"target": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"description": "Views account balances, and makes payments using"
+						},
+						{
+							"_type": "C4Relationship",
+							"_id": "AAAAAAGIIfv5Y2BzXxw=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"source": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"target": {
+								"$ref": "AAAAAAGIIe11/4bx+S4="
+							},
+							"technology": "HTTPS",
+							"description": "Visits bigbank.com/ib using"
+						},
+						{
+							"_type": "C4Relationship",
+							"_id": "AAAAAAGIIf7F/wDTK0U=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"source": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"target": {
+								"$ref": "AAAAAAGIIe5TcYcCxTo="
+							},
+							"description": "Views account balances, and makes payments using"
+						},
+						{
+							"_type": "C4Relationship",
+							"_id": "AAAAAAGIIf+lgwDnUfA=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"source": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"target": {
+								"$ref": "AAAAAAGIIe9Yj4cXyKA="
+							},
+							"description": "Views account balances, and makes payments using"
+						}
+					],
+					"description": "A customer of the bank, with personal bank accounts."
+				},
+				{
+					"_type": "C4SoftwareSystem",
+					"_id": "AAAAAAGIIcs8OT5zkqc=",
+					"_parent": {
+						"$ref": "AAAAAAGIIcF2/0fLrtE="
+					},
+					"name": "Internet Banking System",
+					"ownedElements": [
+						{
+							"_type": "C4Relationship",
+							"_id": "AAAAAAGIIdKS3rGdHfg=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"source": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"target": {
+								"$ref": "AAAAAAGIIcvcGD6DCDE="
+							},
+							"description": "Sends e-mail using"
+						},
+						{
+							"_type": "C4Relationship",
+							"_id": "AAAAAAGIIdOMvIOkVbE=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"source": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"target": {
+								"$ref": "AAAAAAGIIcxS1z6TlkI="
+							},
+							"description": "Gets account information from, and makes payments using"
+						},
+						{
+							"_type": "C4Diagram",
+							"_id": "AAAAAAGIIeiPK3GfFOY=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"name": "Container Diagram",
+							"ownedViews": [
+								{
+									"_type": "C4SoftwareSystemView",
+									"_id": "AAAAAAGIIfXpfxd+9Fg=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIcs8OT5zkqc="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfXpfxd/G54=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfXpfxd+9Fg="
+											},
+											"font": "Arial;13;1",
+											"left": 32,
+											"top": 376,
+											"width": 729,
+											"height": 13,
+											"text": "Internet Banking System",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfXpfxeAXRQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfXpfxd+9Fg="
+											},
+											"font": "Arial;13;0",
+											"left": 32,
+											"top": 393,
+											"width": 729,
+											"height": 13,
+											"text": "[Software System]",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfXpfxeB+3w=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfXpfxd+9Fg="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 32,
+											"top": 970,
+											"width": 729,
+											"height": 13,
+											"text": "Allows customers to view information about their bank accounts, and make payments.",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 24,
+									"top": 368,
+									"width": 745,
+									"height": 438,
+									"nameLabel": {
+										"$ref": "AAAAAAGIIfXpfxd/G54="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIfXpfxeAXRQ="
+									},
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIfXpfxeB+3w="
+									}
+								},
+								{
+									"_type": "C4ContainerView",
+									"_id": "AAAAAAGIIe12AIbzhCQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIe11/4bx+S4="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIe12AIb0OKA=",
+											"_parent": {
+												"$ref": "AAAAAAGIIe12AIbzhCQ="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;1",
+											"left": 72,
+											"top": 440,
+											"width": 136,
+											"height": 13,
+											"text": "Web Application",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIe12AIb1XiQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIIe12AIbzhCQ="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 72,
+											"top": 457,
+											"width": 136,
+											"height": 26,
+											"text": "[Container: Java and Spring MVC]",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIe12AIb2C2s=",
+											"_parent": {
+												"$ref": "AAAAAAGIIe12AIbzhCQ="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 72,
+											"top": 499,
+											"width": 136,
+											"height": 52,
+											"text": "Delivers the static content and the internet banking single page application.",
+											"wordWrap": true
+										}
+									],
+									"fillColor": "#a3e0ff",
+									"font": "Arial;13;0",
+									"left": 64,
+									"top": 432,
+									"width": 152,
+									"height": 128,
+									"nameLabel": {
+										"$ref": "AAAAAAGIIe12AIb0OKA="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIe12AIb1XiQ="
+									},
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIe12AIb2C2s="
+									}
+								},
+								{
+									"_type": "C4ContainerView",
+									"_id": "AAAAAAGIIe5TcYcEac4=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIe5TcocFbIc=",
+											"_parent": {
+												"$ref": "AAAAAAGIIe5TcYcEac4="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;1",
+											"left": 344,
+											"top": 462,
+											"width": 177,
+											"height": 13,
+											"text": "Single-Page Application",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIe5TcocGLxg=",
+											"_parent": {
+												"$ref": "AAAAAAGIIe5TcYcEac4="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 344,
+											"top": 479,
+											"width": 177,
+											"height": 26,
+											"text": "[Container: JavaScript and Angular]",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIe5TcocHZhw=",
+											"_parent": {
+												"$ref": "AAAAAAGIIe5TcYcEac4="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 344,
+											"top": 521,
+											"width": 177,
+											"height": 52,
+											"text": "Provides all of the Internet banking functionality to customers via their web browser.",
+											"wordWrap": true
+										}
+									],
+									"fillColor": "#a3e0ff",
+									"font": "Arial;13;0",
+									"left": 336,
+									"top": 432,
+									"width": 193,
+									"height": 149,
+									"nameLabel": {
+										"$ref": "AAAAAAGIIe5TcocFbIc="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIe5TcocGLxg="
+									},
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIe5TcocHZhw="
+									}
+								},
+								{
+									"_type": "C4ContainerView",
+									"_id": "AAAAAAGIIe9Yj4cZRxc=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIe9Yj4cXyKA="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIe9Yj4caqj0=",
+											"_parent": {
+												"$ref": "AAAAAAGIIe9Yj4cZRxc="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;1",
+											"left": 568,
+											"top": 448,
+											"width": 161,
+											"height": 13,
+											"text": "Mobile App",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIe9Yj4cbAEM=",
+											"_parent": {
+												"$ref": "AAAAAAGIIe9Yj4cZRxc="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 568,
+											"top": 465,
+											"width": 161,
+											"height": 13,
+											"text": "[Container: Xamarin]",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIe9Yj4cc/AY=",
+											"_parent": {
+												"$ref": "AAAAAAGIIe9Yj4cZRxc="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 568,
+											"top": 494,
+											"width": 161,
+											"height": 52,
+											"text": "Provides a limited subset of the Internet banking functionality to customers via their mobile device.",
+											"wordWrap": true
+										}
+									],
+									"fillColor": "#a3e0ff",
+									"font": "Arial;13;0",
+									"left": 560,
+									"top": 432,
+									"width": 177,
+									"height": 145,
+									"nameLabel": {
+										"$ref": "AAAAAAGIIe9Yj4caqj0="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIe9Yj4cbAEM="
+									},
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIe9Yj4cc/AY="
+									}
+								},
+								{
+									"_type": "C4SoftwareSystemView",
+									"_id": "AAAAAAGIIfWGCRducIk=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIcxS1z6TlkI="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfWGCRdvnDI=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfWGCRducIk="
+											},
+											"fillColor": "#c6c6c6",
+											"font": "Arial;13;1",
+											"left": 824,
+											"top": 664,
+											"width": 169,
+											"height": 26,
+											"text": "Mainframe Banking System",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfWGCRdwhFY=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfWGCRducIk="
+											},
+											"fillColor": "#c6c6c6",
+											"font": "Arial;13;0",
+											"left": 824,
+											"top": 694,
+											"width": 169,
+											"height": 13,
+											"text": "[Software System]",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfWGCRdxEH8=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfWGCRducIk="
+											},
+											"fillColor": "#c6c6c6",
+											"font": "Arial;13;0",
+											"left": 824,
+											"top": 723,
+											"width": 169,
+											"height": 52,
+											"text": "Stores all of the core banking information about customers, accounts, transactions, etc.",
+											"wordWrap": true
+										}
+									],
+									"fillColor": "#c6c6c6",
+									"font": "Arial;13;0",
+									"left": 816,
+									"top": 656,
+									"width": 185,
+									"height": 129,
+									"nameLabel": {
+										"$ref": "AAAAAAGIIfWGCRdvnDI="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIfWGCRdwhFY="
+									},
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIfWGCRdxEH8="
+									}
+								},
+								{
+									"_type": "C4ContainerView",
+									"_id": "AAAAAAGIIfaOfBeydT4=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIfaOexew9bM="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfaOfBezSE0=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfaOfBeydT4="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;1",
+											"left": 72,
+											"top": 654,
+											"width": 177,
+											"height": 13,
+											"text": "Database",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfaOfBe0whE=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfaOfBeydT4="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 72,
+											"top": 671,
+											"width": 177,
+											"height": 26,
+											"text": "[Container: Oracle Database Schema]",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfaOfBe18is=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfaOfBeydT4="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 72,
+											"top": 713,
+											"width": 177,
+											"height": 52,
+											"text": "Stores user registration information, hashed authentication credentials, access logs, etc.",
+											"wordWrap": true
+										}
+									],
+									"fillColor": "#a3e0ff",
+									"font": "Arial;13;0",
+									"left": 64,
+									"top": 600,
+									"width": 193,
+									"height": 186,
+									"nameLabel": {
+										"$ref": "AAAAAAGIIfaOfBezSE0="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIfaOfBe0whE="
+									},
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIfaOfBe18is="
+									}
+								},
+								{
+									"_type": "C4ContainerView",
+									"_id": "AAAAAAGIIfd/+xfDSmo=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfd/+xfEngs=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfd/+xfDSmo="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;1",
+											"left": 480,
+											"top": 648,
+											"width": 144,
+											"height": 13,
+											"text": "API Application",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfd/+xfF/Xs=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfd/+xfDSmo="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 480,
+											"top": 665,
+											"width": 144,
+											"height": 26,
+											"text": "[Container: Java and Spring MVC]",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIfd/+xfGGzk=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfd/+xfDSmo="
+											},
+											"fillColor": "#a3e0ff",
+											"font": "Arial;13;0",
+											"left": 480,
+											"top": 707,
+											"width": 144,
+											"height": 39,
+											"text": "Provides Internet banking functionality via a JSON/HTTPS API.",
+											"wordWrap": true
+										}
+									],
+									"fillColor": "#a3e0ff",
+									"font": "Arial;13;0",
+									"left": 472,
+									"top": 640,
+									"width": 160,
+									"height": 136,
+									"nameLabel": {
+										"$ref": "AAAAAAGIIfd/+xfEngs="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIfd/+xfF/Xs="
+									},
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIfd/+xfGGzk="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIfjDsxfhD0g=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIfjDshffwMY="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIfjDsxfi/hA=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfjDsxfhD0g="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfjDshffwMY="
+											},
+											"font": "Arial;13;0",
+											"left": 228,
+											"top": 478,
+											"width": 92,
+											"height": 39,
+											"alpha": -4.248745371391884,
+											"distance": 2.23606797749979,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIfjDsxfhD0g="
+											},
+											"edgePosition": 1,
+											"text": "Delivers to the customer's web browser",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIfjDsxfj8no=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfjDsxfhD0g="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfjDshffwMY="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 270,
+											"top": 508,
+											"width": 8.865997314453125,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIfjDsxfhD0g="
+											},
+											"edgePosition": 1,
+											"text": "[]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIe5TcYcEac4="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIe12AIbzhCQ="
+									},
+									"lineStyle": 1,
+									"points": "216:498;335:502",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIfjDsxfi/hA="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIfjDsxfj8no="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIfpVdmA9vK8=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIfpVdmA7IMs="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIfpVdmA+XZ4=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfpVdmA9vK8="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfpVdmA7IMs="
+											},
+											"font": "Arial;13;0",
+											"left": 332,
+											"top": 708,
+											"width": 61,
+											"height": 39,
+											"alpha": 1.5519027127304483,
+											"distance": 28.0178514522438,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIfpVdmA9vK8="
+											},
+											"edgePosition": 1,
+											"text": "Reads from and writes to",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIfpVdmA/Kfg=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfpVdmA9vK8="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfpVdmA7IMs="
+											},
+											"font": "Arial;13;0",
+											"left": 333,
+											"top": 679,
+											"width": 62.84814453125,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIfpVdmA9vK8="
+											},
+											"edgePosition": 1,
+											"text": "[SQL/TCP]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIfaOfBeydT4="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIfd/+xfDSmo="
+									},
+									"lineStyle": 1,
+									"points": "471:704;257:696",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIfpVdmA+XZ4="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIfpVdmA/Kfg="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIfrKuGBNDJI=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIfrKuGBLEbQ="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIfrKuGBO4SA=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfrKuGBNDJI="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfrKuGBLEbQ="
+											},
+											"font": "Arial;13;0",
+											"left": 393,
+											"top": 592,
+											"width": 85,
+											"height": 26,
+											"alpha": -2.2060843724410626,
+											"distance": 57.271284253105414,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIfrKuGBNDJI="
+											},
+											"edgePosition": 1,
+											"text": "Makes API calls to",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIfrKuWBPNBQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfrKuGBNDJI="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfrKuGBLEbQ="
+											},
+											"font": "Arial;13;0",
+											"left": 404,
+											"top": 624,
+											"width": 88.1181640625,
+											"height": 13,
+											"alpha": -1.7054872724594856,
+											"distance": 49.040799340956916,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIfrKuGBNDJI="
+											},
+											"edgePosition": 1,
+											"text": "[JSON/HTTPS]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIfd/+xfDSmo="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIe5TcYcEac4="
+									},
+									"lineStyle": 1,
+									"points": "476:581;511:639",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIfrKuGBO4SA="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIfrKuWBPNBQ="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIftQJWBg8Ys=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIftQJGBe/0s="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIftQJWBh5iY=",
+											"_parent": {
+												"$ref": "AAAAAAGIIftQJWBg8Ys="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIftQJGBe/0s="
+											},
+											"font": "Arial;13;0",
+											"left": 604,
+											"top": 583,
+											"width": 86,
+											"height": 26,
+											"alpha": 2.261628352201603,
+											"distance": 50.44799302251776,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIftQJWBg8Ys="
+											},
+											"edgePosition": 1,
+											"text": "Makes API calls to",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIftQJWBiOKQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIIftQJWBg8Ys="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIftQJGBe/0s="
+											},
+											"font": "Arial;13;0",
+											"left": 603,
+											"top": 616,
+											"width": 88.1181640625,
+											"height": 13,
+											"alpha": 1.7484487403347608,
+											"distance": 51.92301994298868,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIftQJWBg8Ys="
+											},
+											"edgePosition": 1,
+											"text": "[JSON/HTTPS]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIfd/+xfDSmo="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIe9Yj4cZRxc="
+									},
+									"lineStyle": 1,
+									"points": "613:577;583:639",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIftQJWBh5iY="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIftQJWBiOKQ="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIfv5Y2B1Xbs=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIfv5Y2BzXxw="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIfv5Y2B2XnM=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfv5Y2B1Xbs="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfv5Y2BzXxw="
+											},
+											"font": "Arial;13;0",
+											"left": 247,
+											"top": 233,
+											"width": 87.43896484375,
+											"height": 39,
+											"alpha": -2.1793639971226852,
+											"distance": 53.150729063673246,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIfv5Y2B1Xbs="
+											},
+											"edgePosition": 1,
+											"text": "Visits bigbank.com/ib using",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIfv5Y2B3wUg=",
+											"_parent": {
+												"$ref": "AAAAAAGIIfv5Y2B1Xbs="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfv5Y2BzXxw="
+											},
+											"font": "Arial;13;0",
+											"left": 260,
+											"top": 274,
+											"width": 49.83544921875,
+											"height": 13,
+											"alpha": -1.7314146667767325,
+											"distance": 30.01666203960727,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIfv5Y2B1Xbs="
+											},
+											"edgePosition": 1,
+											"text": "[HTTPS]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIe12AIbzhCQ="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIgLoD6sBWDQ="
+									},
+									"lineStyle": 1,
+									"points": "463:229;304:304;194:431",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIfv5Y2B2XnM="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIfv5Y2B3wUg="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIf7F/wDVbuo=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIf7F/wDTK0U="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIf7F/wDWw0Q=",
+											"_parent": {
+												"$ref": "AAAAAAGIIf7F/wDVbuo="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIf7F/wDTK0U="
+											},
+											"font": "Arial;13;0",
+											"left": 405,
+											"top": 293,
+											"width": 133,
+											"height": 39,
+											"alpha": -2.5120788142000072,
+											"distance": 44.384682042344295,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIf7F/wDVbuo="
+											},
+											"edgePosition": 1,
+											"text": "Views account balances, and makes payments using",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIf7F/wDXwcc=",
+											"_parent": {
+												"$ref": "AAAAAAGIIf7F/wDVbuo="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIf7F/wDTK0U="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 466,
+											"top": 344,
+											"width": 8.865997314453125,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIf7F/wDVbuo="
+											},
+											"edgePosition": 1,
+											"text": "[]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIe5TcYcEac4="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIgLoD6sBWDQ="
+									},
+									"lineStyle": 1,
+									"points": "512:280;459:431",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIf7F/wDWw0Q="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIf7F/wDXwcc="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIf+lhADpjVc=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIf+lgwDnUfA="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIf+lhADqqwE=",
+											"_parent": {
+												"$ref": "AAAAAAGIIf+lhADpjVc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIf+lgwDnUfA="
+											},
+											"font": "Arial;13;0",
+											"left": 570,
+											"top": 294,
+											"width": 122,
+											"height": 52,
+											"alpha": 2.0698913457231476,
+											"distance": 46.75467891024384,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIf+lhADpjVc="
+											},
+											"edgePosition": 1,
+											"text": "Views account balances, and makes payments using",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIf+lhADrTFU=",
+											"_parent": {
+												"$ref": "AAAAAAGIIf+lhADpjVc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIf+lgwDnUfA="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 580,
+											"top": 353,
+											"width": 8.865997314453125,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIf+lhADpjVc="
+											},
+											"edgePosition": 1,
+											"text": "[]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIe9Yj4cZRxc="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIgLoD6sBWDQ="
+									},
+									"lineStyle": 1,
+									"points": "574:280;624:431",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIf+lhADqqwE="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIf+lhADrTFU="
+									}
+								},
+								{
+									"_type": "C4SoftwareSystemView",
+									"_id": "AAAAAAGIIgGeGKrq1rM=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIcvcGD6DCDE="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIgGeGKrrlAo=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgGeGKrq1rM="
+											},
+											"fillColor": "#c6c6c6",
+											"font": "Arial;13;1",
+											"left": 824,
+											"top": 424,
+											"width": 177,
+											"height": 13,
+											"text": "E-mail System",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIgGeGKrs3mM=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgGeGKrq1rM="
+											},
+											"fillColor": "#c6c6c6",
+											"font": "Arial;13;0",
+											"left": 824,
+											"top": 441,
+											"width": 177,
+											"height": 13,
+											"text": "[Software System]",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIgGeGKrtVBw=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgGeGKrq1rM="
+											},
+											"fillColor": "#c6c6c6",
+											"font": "Arial;13;0",
+											"left": 824,
+											"top": 470,
+											"width": 177,
+											"height": 26,
+											"text": "The internal Microsoft Exchange e-mail system.",
+											"wordWrap": true
+										}
+									],
+									"fillColor": "#c6c6c6",
+									"font": "Arial;13;0",
+									"left": 816,
+									"top": 416,
+									"width": 193,
+									"height": 113,
+									"nameLabel": {
+										"$ref": "AAAAAAGIIgGeGKrrlAo="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIgGeGKrs3mM="
+									},
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIgGeGKrtVBw="
+									}
+								},
+								{
+									"_type": "C4PersonView",
+									"_id": "AAAAAAGIIgLoD6sBWDQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIcH34kfSFI0="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIgLoD6sCwT0=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgLoD6sBWDQ="
+											},
+											"fillColor": "#38bcff",
+											"font": "Arial;13;1",
+											"left": 472,
+											"top": 174,
+											"width": 145,
+											"height": 26,
+											"text": "Personal Banking Customer",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIgLoD6sDdVs=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgLoD6sBWDQ="
+											},
+											"fillColor": "#38bcff",
+											"font": "Arial;13;0",
+											"left": 472,
+											"top": 204,
+											"width": 145,
+											"height": 13,
+											"text": "[Person]",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIIgLoD6sEgUU=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgLoD6sBWDQ="
+											},
+											"fillColor": "#38bcff",
+											"font": "Arial;13;0",
+											"left": 472,
+											"top": 233,
+											"width": 145,
+											"height": 39,
+											"text": "A customer of the bank, with personal bank accounts.",
+											"wordWrap": true
+										}
+									],
+									"fillColor": "#38bcff",
+									"font": "Arial;13;0",
+									"left": 464,
+									"top": 104,
+									"width": 161,
+									"height": 176,
+									"nameLabel": {
+										"$ref": "AAAAAAGIIgLoD6sCwT0="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIgLoD6sDdVs="
+									},
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIgLoD6sEgUU="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIgLoEKsIAhQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIdlqRXw8AYU="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIgLoEKsJoow=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgLoEKsIAhQ="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIdlqRXw8AYU="
+											},
+											"font": "Arial;13;0",
+											"left": 768,
+											"top": 256,
+											"width": 41.89453125,
+											"height": 39,
+											"alpha": 4.775717622821313,
+											"distance": 31.38470965295043,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIgLoEKsIAhQ="
+											},
+											"edgePosition": 1,
+											"text": "Sends e-mails to",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIgLoEKsKHKU=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgLoEKsIAhQ="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIdlqRXw8AYU="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 778,
+											"top": 284,
+											"width": 8.865997314453125,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIgLoEKsIAhQ="
+											},
+											"edgePosition": 1,
+											"text": "[]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIgLoD6sBWDQ="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIgGeGKrq1rM="
+									},
+									"lineStyle": 1,
+									"points": "866:415;776:304;625:230",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIgLoEKsJoow="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIgLoEKsKHKU="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIgQQPKt9Qxo=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIgQQPKt7Ek4="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIgQQPat+B70=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgQQPKt9Qxo="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIgQQPKt7Ek4="
+											},
+											"font": "Arial;13;0",
+											"left": 764,
+											"top": 567,
+											"width": 83,
+											"height": 26,
+											"alpha": -0.43607994321348587,
+											"distance": 78.31347265956222,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIgQQPKt9Qxo="
+											},
+											"edgePosition": 1,
+											"text": "Sends e-mail using",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIgQQPat/fM4=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgQQPKt9Qxo="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIgQQPKt7Ek4="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 732,
+											"top": 597,
+											"width": 8.865997314453125,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIgQQPKt9Qxo="
+											},
+											"edgePosition": 1,
+											"text": "[]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIgGeGKrq1rM="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIfd/+xfDSmo="
+									},
+									"lineStyle": 1,
+									"points": "632:654;824:529",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIgQQPat+B70="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIgQQPat/fM4="
+									}
+								},
+								{
+									"_type": "C4RelationshipView",
+									"_id": "AAAAAAGIIgSk/quUfOk=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"model": {
+										"$ref": "AAAAAAGIIgSk/auSwoE="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIgSk/quVGG0=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgSk/quUfOk="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIgSk/auSwoE="
+											},
+											"font": "Arial;13;0",
+											"left": 686,
+											"top": 678,
+											"width": 60,
+											"height": 26,
+											"alpha": -4.366307376547624,
+											"distance": 22.80350850198276,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIgSk/quUfOk="
+											},
+											"edgePosition": 1,
+											"text": "Make API calls to",
+											"wordWrap": true
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAGIIgSk/quWwGs=",
+											"_parent": {
+												"$ref": "AAAAAAGIIgSk/quUfOk="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIgSk/auSwoE="
+											},
+											"font": "Arial;13;0",
+											"left": 663,
+											"top": 721,
+											"width": 80.17724609375,
+											"height": 13,
+											"alpha": -2.4510364765380643,
+											"distance": 24.413111231467404,
+											"hostEdge": {
+												"$ref": "AAAAAAGIIgSk/quUfOk="
+											},
+											"edgePosition": 1,
+											"text": "[XML/HTTPS]",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIIfWGCRducIk="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIIfd/+xfDSmo="
+									},
+									"lineStyle": 1,
+									"points": "632:710;815:717",
+									"descriptionLabel": {
+										"$ref": "AAAAAAGIIgSk/quVGG0="
+									},
+									"technologyLabel": {
+										"$ref": "AAAAAAGIIgSk/quWwGs="
+									}
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGIIhIZdj7Sdao=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"font": "Arial;20;0",
+									"left": 24,
+									"top": 20,
+									"width": 441,
+									"height": 32,
+									"text": "[Container] Internet Banking System"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGIIhIZdj7TxUE=",
+									"_parent": {
+										"$ref": "AAAAAAGIIeiPK3GfFOY="
+									},
+									"font": "Arial;13;0",
+									"left": 24,
+									"top": 52,
+									"width": 369,
+									"height": 25,
+									"text": "The container diagram for the Internet Banking System"
+								}
+							]
+						},
+						{
+							"_type": "C4Container",
+							"_id": "AAAAAAGIIe11/4bx+S4=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"name": "Web Application",
+							"ownedElements": [
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIfjDshffwMY=",
+									"_parent": {
+										"$ref": "AAAAAAGIIe11/4bx+S4="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIe11/4bx+S4="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"description": "Delivers to the customer's web browser"
+								}
+							],
+							"technology": "Java and Spring MVC",
+							"description": "Delivers the static content and the internet banking single page application.",
+							"kind": "etc"
+						},
+						{
+							"_type": "C4Container",
+							"_id": "AAAAAAGIIe5TcYcCxTo=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"name": "Single-Page Application",
+							"ownedElements": [
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIfrKuGBLEbQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"technology": "JSON/HTTPS",
+									"description": "Makes API calls to"
+								},
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIoujSveQiWU=",
+									"_parent": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIoe6VPcF1UY="
+									},
+									"technology": "JSON/HTTPS",
+									"description": "Make API calls to"
+								},
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIovCtPedFf4=",
+									"_parent": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIohw7fcYYy4="
+									},
+									"technology": "JSON/HTTPS",
+									"description": "Make API calls to"
+								},
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIovP2feqBes=",
+									"_parent": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIe5TcYcCxTo="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIoiFifcmzPo="
+									},
+									"technology": "JSON/HTTPS",
+									"description": "Make API calls to"
+								}
+							],
+							"technology": "JavaScript and Angular",
+							"description": "Provides all of the Internet banking functionality to customers via their web browser.",
+							"kind": "client-webapp"
+						},
+						{
+							"_type": "C4Container",
+							"_id": "AAAAAAGIIe9Yj4cXyKA=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"name": "Mobile App",
+							"ownedElements": [
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIftQJGBe/0s=",
+									"_parent": {
+										"$ref": "AAAAAAGIIe9Yj4cXyKA="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIe9Yj4cXyKA="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"technology": "JSON/HTTPS",
+									"description": "Makes API calls to"
+								},
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIovcove3KnM=",
+									"_parent": {
+										"$ref": "AAAAAAGIIe9Yj4cXyKA="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIe9Yj4cXyKA="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIoe6VPcF1UY="
+									},
+									"technology": "JSON/HTTPS",
+									"description": "Make API calls to"
+								},
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIoviAPfE8cU=",
+									"_parent": {
+										"$ref": "AAAAAAGIIe9Yj4cXyKA="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIe9Yj4cXyKA="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIohw7fcYYy4="
+									},
+									"technology": "JSON/HTTPS",
+									"description": "Make API calls to"
+								},
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIovnAvfRDps=",
+									"_parent": {
+										"$ref": "AAAAAAGIIe9Yj4cXyKA="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIe9Yj4cXyKA="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIoiFifcmzPo="
+									},
+									"technology": "JSON/HTTPS",
+									"description": "Make API calls to"
+								}
+							],
+							"technology": "Xamarin",
+							"description": "Provides a limited subset of the Internet banking functionality to customers via their mobile device.",
+							"kind": "mobile-app"
+						},
+						{
+							"_type": "C4Container",
+							"_id": "AAAAAAGIIfaOexew9bM=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"name": "Database",
+							"technology": "Oracle Database Schema",
+							"description": "Stores user registration information, hashed authentication credentials, access logs, etc.",
+							"kind": "database"
+						},
+						{
+							"_type": "C4Container",
+							"_id": "AAAAAAGIIfd/+hfBJoA=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcs8OT5zkqc="
+							},
+							"name": "API Application",
+							"ownedElements": [
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIfpVdmA7IMs=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIfaOexew9bM="
+									},
+									"technology": "SQL/TCP",
+									"description": "Reads from and writes to"
+								},
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIgQQPKt7Ek4=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIcvcGD6DCDE="
+									},
+									"description": "Sends e-mail using"
+								},
+								{
+									"_type": "C4Relationship",
+									"_id": "AAAAAAGIIgSk/auSwoE=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"source": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"target": {
+										"$ref": "AAAAAAGIIcxS1z6TlkI="
+									},
+									"technology": "XML/HTTPS",
+									"description": "Make API calls to"
+								},
+								{
+									"_type": "C4Diagram",
+									"_id": "AAAAAAGIImr7j9kFfpc=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"name": "Component Diagram",
+									"ownedViews": [
+										{
+											"_type": "UMLTextView",
+											"_id": "AAAAAAGIImtfUNkLxIw=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"font": "Arial;20;0",
+											"left": 28,
+											"top": 32,
+											"width": 517,
+											"height": 32,
+											"text": "[Component] Internet Banking System - API Application"
+										},
+										{
+											"_type": "UMLTextView",
+											"_id": "AAAAAAGIImtfUNkMSGs=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"font": "Arial;13;0",
+											"left": 28,
+											"top": 64,
+											"width": 369,
+											"height": 25,
+											"text": "The component diagram for the API Application"
+										},
+										{
+											"_type": "C4ContainerView",
+											"_id": "AAAAAAGIIoWXlPZm0DY=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfd/+hfBJoA="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoWXlPZnj1w=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoWXlPZm0DY="
+													},
+													"font": "Arial;13;1",
+													"left": 56,
+													"top": 352,
+													"width": 793,
+													"height": 13,
+													"text": "API Application",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoWXlfZoCpM=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoWXlPZm0DY="
+													},
+													"font": "Arial;13;0",
+													"left": 56,
+													"top": 369,
+													"width": 793,
+													"height": 13,
+													"text": "[Container: Java and Spring MVC]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoWXlfZpRxI=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoWXlPZm0DY="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": -146,
+													"top": 64571,
+													"width": 80.89453125,
+													"height": 91,
+													"text": "Provides Internet banking functionality via a JSON/HTTPS API.",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 48,
+											"top": 344,
+											"width": 809,
+											"height": 441,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoWXlPZnj1w="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoWXlfZoCpM="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoWXlfZpRxI="
+											}
+										},
+										{
+											"_type": "C4ContainerView",
+											"_id": "AAAAAAGIIoXVHPZ2z/c=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIe5TcYcCxTo="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoXVHPZ3oDQ=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoXVHPZ2z/c="
+													},
+													"fillColor": "#38bcff",
+													"font": "Arial;13;1",
+													"left": 160,
+													"top": 150,
+													"width": 217,
+													"height": 13,
+													"text": "Single-Page Application",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoXVHPZ4li8=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoXVHPZ2z/c="
+													},
+													"fillColor": "#38bcff",
+													"font": "Arial;13;0",
+													"left": 160,
+													"top": 167,
+													"width": 217,
+													"height": 13,
+													"text": "[Container: JavaScript and Angular]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoXVHPZ5LeM=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoXVHPZ2z/c="
+													},
+													"fillColor": "#38bcff",
+													"font": "Arial;13;0",
+													"left": 160,
+													"top": 196,
+													"width": 217,
+													"height": 39,
+													"text": "Provides all of the Internet banking functionality to customers via their web browser.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#38bcff",
+											"font": "Arial;13;0",
+											"left": 152,
+											"top": 120,
+											"width": 233,
+											"height": 137,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoXVHPZ3oDQ="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoXVHPZ4li8="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoXVHPZ5LeM="
+											}
+										},
+										{
+											"_type": "C4ContainerView",
+											"_id": "AAAAAAGIIoYQ9vaSIGY=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIe9Yj4cXyKA="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoYQ9vaTBKI=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoYQ9vaSIGY="
+													},
+													"fillColor": "#38bcff",
+													"font": "Arial;13;1",
+													"left": 496,
+													"top": 136,
+													"width": 209,
+													"height": 13,
+													"text": "Mobile App",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoYQ9vaUDJc=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoYQ9vaSIGY="
+													},
+													"fillColor": "#38bcff",
+													"font": "Arial;13;0",
+													"left": 496,
+													"top": 153,
+													"width": 209,
+													"height": 13,
+													"text": "[Container: Xamarin]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoYQ9vaVcW4=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoYQ9vaSIGY="
+													},
+													"fillColor": "#38bcff",
+													"font": "Arial;13;0",
+													"left": 496,
+													"top": 182,
+													"width": 209,
+													"height": 39,
+													"text": "Provides a limited subset of the Internet banking functionality to customers via their mobile device.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#38bcff",
+											"font": "Arial;13;0",
+											"left": 488,
+											"top": 120,
+											"width": 225,
+											"height": 137,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoYQ9vaTBKI="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoYQ9vaUDJc="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoYQ9vaVcW4="
+											}
+										},
+										{
+											"_type": "C4SoftwareSystemView",
+											"_id": "AAAAAAGIIoafN/axW4E=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIcvcGD6DCDE="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoafN/ayN20=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoafN/axW4E="
+													},
+													"fillColor": "#c6c6c6",
+													"font": "Arial;13;1",
+													"left": 384,
+													"top": 896,
+													"width": 178,
+													"height": 13,
+													"text": "E-mail System",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoafN/azNjs=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoafN/axW4E="
+													},
+													"fillColor": "#c6c6c6",
+													"font": "Arial;13;0",
+													"left": 384,
+													"top": 913,
+													"width": 178,
+													"height": 13,
+													"text": "[Software System]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoafN/a0n7A=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoafN/axW4E="
+													},
+													"fillColor": "#c6c6c6",
+													"font": "Arial;13;0",
+													"left": 384,
+													"top": 942,
+													"width": 178,
+													"height": 26,
+													"text": "The internal Microsoft Exchange e-mail system.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#c6c6c6",
+											"font": "Arial;13;0",
+											"left": 376,
+											"top": 888,
+											"width": 194,
+											"height": 130,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoafN/ayN20="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoafN/azNjs="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoafN/a0n7A="
+											}
+										},
+										{
+											"_type": "C4SoftwareSystemView",
+											"_id": "AAAAAAGIIoapXfbHzaw=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIcxS1z6TlkI="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoapXfbIv5U=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoapXfbHzaw="
+													},
+													"fillColor": "#c6c6c6",
+													"font": "Arial;13;1",
+													"left": 664,
+													"top": 888,
+													"width": 185,
+													"height": 13,
+													"text": "Mainframe Banking System",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoapXfbJRpk=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoapXfbHzaw="
+													},
+													"fillColor": "#c6c6c6",
+													"font": "Arial;13;0",
+													"left": 664,
+													"top": 905,
+													"width": 185,
+													"height": 13,
+													"text": "[Software System]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoapXfbKEu4=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoapXfbHzaw="
+													},
+													"fillColor": "#c6c6c6",
+													"font": "Arial;13;0",
+													"left": 664,
+													"top": 934,
+													"width": 185,
+													"height": 39,
+													"text": "Stores all of the core banking information about customers, accounts, transactions, etc.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#c6c6c6",
+											"font": "Arial;13;0",
+											"left": 656,
+											"top": 880,
+											"width": 201,
+											"height": 145,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoapXfbIv5U="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoapXfbJRpk="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoapXfbKEu4="
+											}
+										},
+										{
+											"_type": "C4ContainerView",
+											"_id": "AAAAAAGIIoa5XfbdUgQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIfaOexew9bM="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoa5Xfbejlg=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoa5XfbdUgQ="
+													},
+													"fillColor": "#6dceff",
+													"font": "Arial;13;1",
+													"left": 96,
+													"top": 916,
+													"width": 185,
+													"height": 13,
+													"text": "Database",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoa5XfbfdIc=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoa5XfbdUgQ="
+													},
+													"fillColor": "#6dceff",
+													"font": "Arial;13;0",
+													"left": 96,
+													"top": 933,
+													"width": 185,
+													"height": 26,
+													"text": "[Container: Oracle Database Schema]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoa5XfbgiZs=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoa5XfbdUgQ="
+													},
+													"fillColor": "#6dceff",
+													"font": "Arial;13;0",
+													"left": 96,
+													"top": 975,
+													"width": 185,
+													"height": 52,
+													"text": "Stores user registration information, hashed authentication credentials, access logs, etc.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#6dceff",
+											"font": "Arial;13;0",
+											"left": 88,
+											"top": 864,
+											"width": 201,
+											"height": 177,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoa5Xfbejlg="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoa5XfbfdIc="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoa5XfbgiZs="
+											}
+										},
+										{
+											"_type": "C4ComponentView",
+											"_id": "AAAAAAGIIoe6VPcHBNg=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIoe6VPcF1UY="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoe6VPcIOlg=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoe6VPcHBNg="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;1",
+													"left": 120,
+													"top": 416,
+													"width": 129,
+													"height": 13,
+													"text": "Sign In Controller",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoe6VfcJXU4=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoe6VPcHBNg="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 120,
+													"top": 433,
+													"width": 129,
+													"height": 26,
+													"text": "[Component: Spring MVC Rest Controller]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoe6VfcKBSY=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoe6VPcHBNg="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 120,
+													"top": 475,
+													"width": 129,
+													"height": 39,
+													"text": "Allows users to sign in to the Internet Banking System.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#d8f2ff",
+											"font": "Arial;13;0",
+											"left": 112,
+											"top": 408,
+											"width": 145,
+											"height": 127,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoe6VPcIOlg="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoe6VfcJXU4="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoe6VfcKBSY="
+											}
+										},
+										{
+											"_type": "C4ComponentView",
+											"_id": "AAAAAAGIIohw7fcaf7Q=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIohw7fcYYy4="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIohw7fcbG94=",
+													"_parent": {
+														"$ref": "AAAAAAGIIohw7fcaf7Q="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;1",
+													"left": 400,
+													"top": 416,
+													"width": 129,
+													"height": 26,
+													"text": "Reset Password Controller",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIohw7fcc+HQ=",
+													"_parent": {
+														"$ref": "AAAAAAGIIohw7fcaf7Q="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 400,
+													"top": 446,
+													"width": 129,
+													"height": 26,
+													"text": "[Component: Spring MVC Rest Controller]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIohw7fcdsyo=",
+													"_parent": {
+														"$ref": "AAAAAAGIIohw7fcaf7Q="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 400,
+													"top": 488,
+													"width": 129,
+													"height": 39,
+													"text": "Allows users to reset their passwords with a single use URL.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#d8f2ff",
+											"font": "Arial;13;0",
+											"left": 392,
+											"top": 408,
+											"width": 145,
+											"height": 127,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIohw7fcbG94="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIohw7fcc+HQ="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIohw7fcdsyo="
+											}
+										},
+										{
+											"_type": "C4ComponentView",
+											"_id": "AAAAAAGIIoiFifcof20=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIoiFifcmzPo="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiFifcpf8c=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiFifcof20="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;1",
+													"left": 672,
+													"top": 416,
+													"width": 129,
+													"height": 26,
+													"text": "Accounts Summary Controller",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiFivcqlIo=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiFifcof20="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 672,
+													"top": 446,
+													"width": 129,
+													"height": 26,
+													"text": "[Component: Spring MVC Rest Controller]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiFivcrJL0=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiFifcof20="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 672,
+													"top": 488,
+													"width": 129,
+													"height": 39,
+													"text": "Provides customers with a summary of their bank accounts.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#d8f2ff",
+											"font": "Arial;13;0",
+											"left": 664,
+											"top": 408,
+											"width": 145,
+											"height": 127,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoiFifcpf8c="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoiFivcqlIo="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoiFivcrJL0="
+											}
+										},
+										{
+											"_type": "C4ComponentView",
+											"_id": "AAAAAAGIIoiLKPc2gsY=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIoiLKPc0YtY="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiLKPc3jYs=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiLKPc2gsY="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;1",
+													"left": 120,
+													"top": 624,
+													"width": 129,
+													"height": 13,
+													"text": "Security Component",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiLKPc4B4E=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiLKPc2gsY="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 120,
+													"top": 641,
+													"width": 129,
+													"height": 26,
+													"text": "[Component: Spring Bean]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiLKPc5+1M=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiLKPc2gsY="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 120,
+													"top": 683,
+													"width": 129,
+													"height": 52,
+													"text": "Provides functionality related to signing in, changing passwords, etc.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#d8f2ff",
+											"font": "Arial;13;0",
+											"left": 112,
+											"top": 616,
+											"width": 145,
+											"height": 127,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoiLKPc3jYs="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoiLKPc4B4E="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoiLKPc5+1M="
+											}
+										},
+										{
+											"_type": "C4ComponentView",
+											"_id": "AAAAAAGIIoiSG/dEKXM=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIoiSG/dC+MM="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiSG/dFRPg=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiSG/dEKXM="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;1",
+													"left": 400,
+													"top": 624,
+													"width": 129,
+													"height": 13,
+													"text": "E-mail Component",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiSG/dGl6g=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiSG/dEKXM="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 400,
+													"top": 641,
+													"width": 129,
+													"height": 26,
+													"text": "[Component: Spring Bean]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiSG/dHH64=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiSG/dEKXM="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 400,
+													"top": 683,
+													"width": 129,
+													"height": 26,
+													"text": "Sends e-mails to users.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#d8f2ff",
+											"font": "Arial;13;0",
+											"left": 392,
+											"top": 616,
+											"width": 145,
+											"height": 127,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoiSG/dFRPg="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoiSG/dGl6g="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoiSG/dHH64="
+											}
+										},
+										{
+											"_type": "C4ComponentView",
+											"_id": "AAAAAAGIIoiV+PdSrfM=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIoiV+PdQX1Q="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiV+PdT/qE=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiV+PdSrfM="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;1",
+													"left": 672,
+													"top": 624,
+													"width": 129,
+													"height": 26,
+													"text": "Mainframe Banking System Facade",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiV+PdUyE4=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiV+PdSrfM="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 672,
+													"top": 654,
+													"width": 129,
+													"height": 26,
+													"text": "[Component: Spring Bean]",
+													"wordWrap": true
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIIoiV+PdVysc=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoiV+PdSrfM="
+													},
+													"fillColor": "#d8f2ff",
+													"font": "Arial;13;0",
+													"left": 672,
+													"top": 696,
+													"width": 129,
+													"height": 39,
+													"text": "A facade onto the mainframe banking system.",
+													"wordWrap": true
+												}
+											],
+											"fillColor": "#d8f2ff",
+											"font": "Arial;13;0",
+											"left": 664,
+											"top": 616,
+											"width": 145,
+											"height": 127,
+											"nameLabel": {
+												"$ref": "AAAAAAGIIoiV+PdT/qE="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoiV+PdUyE4="
+											},
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoiV+PdVysc="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIoujSveSgfY=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIoujSveQiWU="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIoujSveTzlE=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoujSveSgfY="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIoujSveQiWU="
+													},
+													"font": "Arial;13;0",
+													"left": 98,
+													"top": 287,
+													"width": 103.7890625,
+													"height": 13,
+													"alpha": -2.217349555287109,
+													"distance": 43.60045871318328,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIoujSveSgfY="
+													},
+													"edgePosition": 1,
+													"text": "Make API calls to",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIoujSveUO88=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoujSveSgfY="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIoujSveQiWU="
+													},
+													"font": "Arial;13;0",
+													"left": 89,
+													"top": 305,
+													"width": 88.1181640625,
+													"height": 13,
+													"alpha": -1.7315726629412531,
+													"distance": 50.99019513592785,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIoujSveSgfY="
+													},
+													"edgePosition": 1,
+													"text": "[JSON/HTTPS]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoe6VPcHBNg="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoXVHPZ2z/c="
+											},
+											"lineStyle": 1,
+											"points": "224:257;184:320;184:407",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoujSveTzlE="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoujSveUO88="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIovCtPefzNI=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIovCtPedFf4="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIovCtPegWY0=",
+													"_parent": {
+														"$ref": "AAAAAAGIIovCtPefzNI="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIovCtPedFf4="
+													},
+													"font": "Arial;13;0",
+													"left": 216,
+													"top": 271,
+													"width": 135.7890625,
+													"height": 13,
+													"alpha": -3.681114326587073,
+													"distance": 43.965895873961216,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIovCtPefzNI="
+													},
+													"edgePosition": 1,
+													"text": "Make API calls to",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIovCtPehnRA=",
+													"_parent": {
+														"$ref": "AAAAAAGIIovCtPefzNI="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIovCtPedFf4="
+													},
+													"font": "Arial;13;0",
+													"left": 239,
+													"top": 287,
+													"width": 88.1181640625,
+													"height": 13,
+													"alpha": -3.517637978829878,
+													"distance": 29.068883707497267,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIovCtPefzNI="
+													},
+													"edgePosition": 1,
+													"text": "[JSON/HTTPS]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIohw7fcaf7Q="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoXVHPZ2z/c="
+											},
+											"lineStyle": 1,
+											"points": "283:257;296:320;393:407",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIovCtPegWY0="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIovCtPehnRA="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIovP2vesJBw=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIovP2feqBes="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIovP2vetTsI=",
+													"_parent": {
+														"$ref": "AAAAAAGIIovP2vesJBw="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIovP2feqBes="
+													},
+													"font": "Arial;13;0",
+													"left": 455,
+													"top": 272,
+													"width": 154,
+													"height": 13,
+													"alpha": 1.9583022315762182,
+													"distance": 64.77653896280658,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIovP2vesJBw="
+													},
+													"edgePosition": 1,
+													"text": "Make API calls to",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIovP2veuDeQ=",
+													"_parent": {
+														"$ref": "AAAAAAGIIovP2vesJBw="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIovP2feqBes="
+													},
+													"font": "Arial;13;0",
+													"left": 455,
+													"top": 287,
+													"width": 88.1181640625,
+													"height": 13,
+													"alpha": -3.7230438820991623,
+													"distance": 53.225933528685054,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIovP2vesJBw="
+													},
+													"edgePosition": 1,
+													"text": "[JSON/HTTPS]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoiFifcof20="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoXVHPZ2z/c="
+											},
+											"lineStyle": 1,
+											"points": "382:257;663:427",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIovP2vetTsI="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIovP2veuDeQ="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIovcove5lB4=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIovcove3KnM="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIovcove6vQc=",
+													"_parent": {
+														"$ref": "AAAAAAGIIovcove5lB4="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIovcove3KnM="
+													},
+													"font": "Arial;13;0",
+													"left": 351,
+													"top": 304,
+													"width": 102,
+													"height": 13,
+													"alpha": 3.4254592179532186,
+													"distance": 37.64306044943742,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIovcove5lB4="
+													},
+													"edgePosition": 1,
+													"text": "Make API calls to",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIovco/e7N9w=",
+													"_parent": {
+														"$ref": "AAAAAAGIIovcove5lB4="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIovcove3KnM="
+													},
+													"font": "Arial;13;0",
+													"left": 358,
+													"top": 320,
+													"width": 88.1181640625,
+													"height": 13,
+													"alpha": 3.0424226034937707,
+													"distance": 27.294688127912362,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIovcove5lB4="
+													},
+													"edgePosition": 1,
+													"text": "[JSON/HTTPS]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoe6VPcHBNg="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoYQ9vaSIGY="
+											},
+											"lineStyle": 1,
+											"points": "499:257;257:421",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIovcove6vQc="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIovco/e7N9w="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIoviAPfGTjs=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIoviAPfE8cU="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIoviAPfHJ60=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoviAPfGTjs="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIoviAPfE8cU="
+													},
+													"font": "Arial;13;0",
+													"left": 567,
+													"top": 312,
+													"width": 144.7890625,
+													"height": 13,
+													"alpha": 2.6887881325049823,
+													"distance": 7.280109889280518,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIoviAPfGTjs="
+													},
+													"edgePosition": 1,
+													"text": "Make API calls to",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIoviAPfIiig=",
+													"_parent": {
+														"$ref": "AAAAAAGIIoviAPfGTjs="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIoviAPfE8cU="
+													},
+													"font": "Arial;13;0",
+													"left": 607,
+													"top": 296,
+													"width": 88.1181640625,
+													"height": 13,
+													"alpha": 3.168866302294397,
+													"distance": 26.1725046566048,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIoviAPfGTjs="
+													},
+													"edgePosition": 1,
+													"text": "[JSON/HTTPS]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIohw7fcaf7Q="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoYQ9vaSIGY="
+											},
+											"lineStyle": 1,
+											"points": "617:257;632:320;535:407",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIoviAPfHJ60="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIoviAPfIiig="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIovnAvfTojE=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIovnAvfRDps="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIovnAvfUsoo=",
+													"_parent": {
+														"$ref": "AAAAAAGIIovnAvfTojE="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIovnAvfRDps="
+													},
+													"font": "Arial;13;0",
+													"left": 744,
+													"top": 280,
+													"width": 129,
+													"height": 13,
+													"alpha": 2.213534177930797,
+													"distance": 54.589376255824725,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIovnAvfTojE="
+													},
+													"edgePosition": 1,
+													"text": "Make API calls to",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIovnAvfVXcw=",
+													"_parent": {
+														"$ref": "AAAAAAGIIovnAvfTojE="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIovnAvfRDps="
+													},
+													"font": "Arial;13;0",
+													"left": 764,
+													"top": 302,
+													"width": 88.1181640625,
+													"height": 13,
+													"alpha": 1.7915655341161458,
+													"distance": 48.41487374764082,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIovnAvfTojE="
+													},
+													"edgePosition": 1,
+													"text": "[JSON/HTTPS]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoiFifcof20="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoYQ9vaSIGY="
+											},
+											"lineStyle": 1,
+											"points": "689:257;760:312;746:407",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIovnAvfUsoo="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIovnAvfVXcw="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIo5ksvgR2es=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIo5ksvgPvvQ="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo5ks/gSSbU=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo5ksvgR2es="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo5ksvgPvvQ="
+													},
+													"font": "Arial;13;0",
+													"left": 184,
+													"top": 568,
+													"width": 29.6181640625,
+													"height": 13,
+													"alpha": 1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo5ksvgR2es="
+													},
+													"edgePosition": 1,
+													"text": "Uses",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo5ks/gTYmI=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo5ksvgR2es="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo5ksvgPvvQ="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": 166,
+													"top": 569,
+													"width": 7.2236328125,
+													"height": 13,
+													"alpha": -1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo5ksvgR2es="
+													},
+													"edgePosition": 1,
+													"text": "[]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoiLKPc2gsY="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoe6VPcHBNg="
+											},
+											"lineStyle": 1,
+											"points": "184:535;184:615",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIo5ks/gSSbU="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIo5ks/gTYmI="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIo6B7vgf3/4=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIo6B7vgdGTQ="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo6B7vggbCw=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo6B7vgf3/4="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo6B7vgdGTQ="
+													},
+													"font": "Arial;13;0",
+													"left": 318,
+													"top": 581,
+													"width": 29.6181640625,
+													"height": 13,
+													"alpha": 1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo6B7vgf3/4="
+													},
+													"edgePosition": 1,
+													"text": "Uses",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo6B7vghCL0=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo6B7vgf3/4="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo6B7vgdGTQ="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": 312,
+													"top": 556,
+													"width": 7.2236328125,
+													"height": 13,
+													"alpha": -1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo6B7vgf3/4="
+													},
+													"edgePosition": 1,
+													"text": "[]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoiLKPc2gsY="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIohw7fcaf7Q="
+											},
+											"lineStyle": 1,
+											"points": "391:525;257:625",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIo6B7vggbCw="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIo6B7vghCL0="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIo6dAPgtygI=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIo6dAPgr7EE="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo6dAPgusm0=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo6dAPgtygI="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo6dAPgr7EE="
+													},
+													"font": "Arial;13;0",
+													"left": 464,
+													"top": 568,
+													"width": 29.6181640625,
+													"height": 13,
+													"alpha": 1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo6dAPgtygI="
+													},
+													"edgePosition": 1,
+													"text": "Uses",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo6dAPgvbAE=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo6dAPgtygI="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo6dAPgr7EE="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": 446,
+													"top": 569,
+													"width": 7.2236328125,
+													"height": 13,
+													"alpha": -1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo6dAPgtygI="
+													},
+													"edgePosition": 1,
+													"text": "[]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoiSG/dEKXM="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIohw7fcaf7Q="
+											},
+											"lineStyle": 1,
+											"points": "464:535;464:615",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIo6dAPgusm0="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIo6dAPgvbAE="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIo6rvfg7jq0=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIo6rvfg5TBk="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo6rvfg8QjQ=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo6rvfg7jq0="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo6rvfg5TBk="
+													},
+													"font": "Arial;13;0",
+													"left": 736,
+													"top": 568,
+													"width": 29.6181640625,
+													"height": 13,
+													"alpha": 1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo6rvfg7jq0="
+													},
+													"edgePosition": 1,
+													"text": "Uses",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo6rvfg9EK8=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo6rvfg7jq0="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo6rvfg5TBk="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": 718,
+													"top": 569,
+													"width": 7.2236328125,
+													"height": 13,
+													"alpha": -1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo6rvfg7jq0="
+													},
+													"edgePosition": 1,
+													"text": "[]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoiV+PdSrfM="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoiFifcof20="
+											},
+											"lineStyle": 1,
+											"points": "736:535;736:615",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIo6rvfg8QjQ="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIo6rvfg9EK8="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIo8DT/hNdkg=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIo8DT/hLOyY="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo8DT/hOVKs=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo8DT/hNdkg="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo8DT/hLOyY="
+													},
+													"font": "Arial;13;0",
+													"left": 151,
+													"top": 798,
+													"width": 99,
+													"height": 26,
+													"alpha": 0.9827938815365294,
+													"distance": 16.64331697709324,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo8DT/hNdkg="
+													},
+													"edgePosition": 1,
+													"text": "Reads from and writes to",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo8DT/hPLcQ=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo8DT/hNdkg="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo8DT/hLOyY="
+													},
+													"font": "Arial;13;0",
+													"left": 159,
+													"top": 823,
+													"width": 62.84814453125,
+													"height": 13,
+													"alpha": 0.13041342747016693,
+													"distance": 27.294688127912362,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo8DT/hNdkg="
+													},
+													"edgePosition": 1,
+													"text": "[SQL/TCP]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoa5XfbdUgQ="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoiLKPc2gsY="
+											},
+											"lineStyle": 1,
+											"points": "185:743;187:863",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIo8DT/hOVKs="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIo8DT/hPLcQ="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIo9xWvhf3wI=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIo9xWfhdZEw="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo9xWvhgoOA=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo9xWvhf3wI="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo9xWfhdZEw="
+													},
+													"font": "Arial;13;0",
+													"left": 424,
+													"top": 799,
+													"width": 81,
+													"height": 26,
+													"alpha": -2.062215711172927,
+													"distance": 4.47213595499958,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo9xWvhf3wI="
+													},
+													"edgePosition": 1,
+													"text": "Sends e-mail using",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo9xWvhhb+I=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo9xWvhf3wI="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo9xWfhdZEw="
+													},
+													"visible": false,
+													"font": "Arial;13;0",
+													"left": 450,
+													"top": 809,
+													"width": 7.2236328125,
+													"height": 13,
+													"alpha": -1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo9xWvhf3wI="
+													},
+													"edgePosition": 1,
+													"text": "[]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoafN/axW4E="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoiSG/dEKXM="
+											},
+											"lineStyle": 1,
+											"points": "466:743;470:887",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIo9xWvhgoOA="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIo9xWvhhb+I="
+											}
+										},
+										{
+											"_type": "C4RelationshipView",
+											"_id": "AAAAAAGIIo+uIfhvVbQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIImr7j9kFfpc="
+											},
+											"model": {
+												"$ref": "AAAAAAGIIo+uIfhtcl0="
+											},
+											"subViews": [
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo+uIfhwfLM=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo+uIfhvVbQ="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo+uIfhtcl0="
+													},
+													"font": "Arial;13;0",
+													"left": 727,
+													"top": 796,
+													"width": 67,
+													"height": 26,
+													"alpha": 1.5707963267948966,
+													"distance": 15,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo+uIfhvVbQ="
+													},
+													"edgePosition": 1,
+													"text": "Makes API calls to",
+													"wordWrap": true
+												},
+												{
+													"_type": "EdgeLabelView",
+													"_id": "AAAAAAGIIo+uIfhxxgg=",
+													"_parent": {
+														"$ref": "AAAAAAGIIo+uIfhvVbQ="
+													},
+													"model": {
+														"$ref": "AAAAAAGIIo+uIfhtcl0="
+													},
+													"font": "Arial;13;0",
+													"left": 703,
+													"top": 824,
+													"width": 80.17724609375,
+													"height": 13,
+													"alpha": -0.22999883563808488,
+													"distance": 19.235384061671343,
+													"hostEdge": {
+														"$ref": "AAAAAAGIIo+uIfhvVbQ="
+													},
+													"edgePosition": 1,
+													"text": "[XML/HTTPS]",
+													"wordWrap": true
+												}
+											],
+											"font": "Arial;13;0",
+											"head": {
+												"$ref": "AAAAAAGIIoapXfbHzaw="
+											},
+											"tail": {
+												"$ref": "AAAAAAGIIoiV+PdSrfM="
+											},
+											"lineStyle": 1,
+											"points": "741:743;751:879",
+											"descriptionLabel": {
+												"$ref": "AAAAAAGIIo+uIfhwfLM="
+											},
+											"technologyLabel": {
+												"$ref": "AAAAAAGIIo+uIfhxxgg="
+											}
+										}
+									]
+								},
+								{
+									"_type": "C4Component",
+									"_id": "AAAAAAGIIoe6VPcF1UY=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"name": "Sign In Controller",
+									"ownedElements": [
+										{
+											"_type": "C4Relationship",
+											"_id": "AAAAAAGIIo5ksvgPvvQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIIoe6VPcF1UY="
+											},
+											"source": {
+												"$ref": "AAAAAAGIIoe6VPcF1UY="
+											},
+											"target": {
+												"$ref": "AAAAAAGIIoiLKPc0YtY="
+											},
+											"description": "Uses"
+										}
+									],
+									"technology": "Spring MVC Rest Controller",
+									"description": "Allows users to sign in to the Internet Banking System."
+								},
+								{
+									"_type": "C4Component",
+									"_id": "AAAAAAGIIohw7fcYYy4=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"name": "Reset Password Controller",
+									"ownedElements": [
+										{
+											"_type": "C4Relationship",
+											"_id": "AAAAAAGIIo6B7vgdGTQ=",
+											"_parent": {
+												"$ref": "AAAAAAGIIohw7fcYYy4="
+											},
+											"source": {
+												"$ref": "AAAAAAGIIohw7fcYYy4="
+											},
+											"target": {
+												"$ref": "AAAAAAGIIoiLKPc0YtY="
+											},
+											"description": "Uses"
+										},
+										{
+											"_type": "C4Relationship",
+											"_id": "AAAAAAGIIo6dAPgr7EE=",
+											"_parent": {
+												"$ref": "AAAAAAGIIohw7fcYYy4="
+											},
+											"source": {
+												"$ref": "AAAAAAGIIohw7fcYYy4="
+											},
+											"target": {
+												"$ref": "AAAAAAGIIoiSG/dC+MM="
+											},
+											"description": "Uses"
+										}
+									],
+									"technology": "Spring MVC Rest Controller",
+									"description": "Allows users to reset their passwords with a single use URL."
+								},
+								{
+									"_type": "C4Component",
+									"_id": "AAAAAAGIIoiFifcmzPo=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"name": "Accounts Summary Controller",
+									"ownedElements": [
+										{
+											"_type": "C4Relationship",
+											"_id": "AAAAAAGIIo6rvfg5TBk=",
+											"_parent": {
+												"$ref": "AAAAAAGIIoiFifcmzPo="
+											},
+											"source": {
+												"$ref": "AAAAAAGIIoiFifcmzPo="
+											},
+											"target": {
+												"$ref": "AAAAAAGIIoiV+PdQX1Q="
+											},
+											"description": "Uses"
+										}
+									],
+									"technology": "Spring MVC Rest Controller",
+									"description": "Provides customers with a summary of their bank accounts."
+								},
+								{
+									"_type": "C4Component",
+									"_id": "AAAAAAGIIoiLKPc0YtY=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"name": "Security Component",
+									"ownedElements": [
+										{
+											"_type": "C4Relationship",
+											"_id": "AAAAAAGIIo8DT/hLOyY=",
+											"_parent": {
+												"$ref": "AAAAAAGIIoiLKPc0YtY="
+											},
+											"source": {
+												"$ref": "AAAAAAGIIoiLKPc0YtY="
+											},
+											"target": {
+												"$ref": "AAAAAAGIIfaOexew9bM="
+											},
+											"technology": "SQL/TCP",
+											"description": "Reads from and writes to"
+										}
+									],
+									"technology": "Spring Bean",
+									"description": "Provides functionality related to signing in, changing passwords, etc."
+								},
+								{
+									"_type": "C4Component",
+									"_id": "AAAAAAGIIoiSG/dC+MM=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"name": "E-mail Component",
+									"ownedElements": [
+										{
+											"_type": "C4Relationship",
+											"_id": "AAAAAAGIIo9xWfhdZEw=",
+											"_parent": {
+												"$ref": "AAAAAAGIIoiSG/dC+MM="
+											},
+											"source": {
+												"$ref": "AAAAAAGIIoiSG/dC+MM="
+											},
+											"target": {
+												"$ref": "AAAAAAGIIcvcGD6DCDE="
+											},
+											"description": "Sends e-mail using"
+										}
+									],
+									"technology": "Spring Bean",
+									"description": "Sends e-mails to users."
+								},
+								{
+									"_type": "C4Component",
+									"_id": "AAAAAAGIIoiV+PdQX1Q=",
+									"_parent": {
+										"$ref": "AAAAAAGIIfd/+hfBJoA="
+									},
+									"name": "Mainframe Banking System Facade",
+									"ownedElements": [
+										{
+											"_type": "C4Relationship",
+											"_id": "AAAAAAGIIo+uIfhtcl0=",
+											"_parent": {
+												"$ref": "AAAAAAGIIoiV+PdQX1Q="
+											},
+											"source": {
+												"$ref": "AAAAAAGIIoiV+PdQX1Q="
+											},
+											"target": {
+												"$ref": "AAAAAAGIIcxS1z6TlkI="
+											},
+											"technology": "XML/HTTPS",
+											"description": "Makes API calls to"
+										}
+									],
+									"technology": "Spring Bean",
+									"description": "A facade onto the mainframe banking system."
+								}
+							],
+							"technology": "Java and Spring MVC",
+							"description": "Provides Internet banking functionality via a JSON/HTTPS API.",
+							"kind": "server-webapp"
+						}
+					],
+					"description": "Allows customers to view information about their bank accounts, and make payments."
+				},
+				{
+					"_type": "C4SoftwareSystem",
+					"_id": "AAAAAAGIIcvcGD6DCDE=",
+					"_parent": {
+						"$ref": "AAAAAAGIIcF2/0fLrtE="
+					},
+					"name": "E-mail System",
+					"ownedElements": [
+						{
+							"_type": "C4Relationship",
+							"_id": "AAAAAAGIIdlqRXw8AYU=",
+							"_parent": {
+								"$ref": "AAAAAAGIIcvcGD6DCDE="
+							},
+							"source": {
+								"$ref": "AAAAAAGIIcvcGD6DCDE="
+							},
+							"target": {
+								"$ref": "AAAAAAGIIcH34kfSFI0="
+							},
+							"description": "Sends e-mails to"
+						}
+					],
+					"description": "The internal Microsoft Exchange e-mail system."
+				},
+				{
+					"_type": "C4SoftwareSystem",
+					"_id": "AAAAAAGIIcxS1z6TlkI=",
+					"_parent": {
+						"$ref": "AAAAAAGIIcF2/0fLrtE="
+					},
+					"name": "Mainframe Banking System",
+					"description": "Stores all of the core banking information about customers, accounts, transactions, etc."
+				}
+			]
+		}
+	]
+}
