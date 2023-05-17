@@ -2061,7 +2061,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 32,
-											"top": 1846,
+											"top": 1870,
 											"width": 729,
 											"height": 13,
 											"text": "Allows customers to view information about their bank accounts, and make payments.",
@@ -3530,7 +3530,7 @@
 											"left": 32,
 											"top": 105,
 											"width": 320,
-											"height": 26,
+											"height": 13,
 											"text": "[Deployment Node: Microsoft Windows or Apple macOS]",
 											"wordWrap": true
 										},
@@ -3542,7 +3542,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 32,
-											"top": 147,
+											"top": 134,
 											"width": 320,
 											"wordWrap": true
 										}
@@ -3817,7 +3817,7 @@
 											"left": 96,
 											"top": 646,
 											"width": 194,
-											"height": 52,
+											"height": 39,
 											"text": "Provides a limited subset of the Internet banking functionality to customers via their mobile device.",
 											"wordWrap": true
 										}
@@ -4043,20 +4043,6 @@
 									}
 								},
 								{
-									"_type": "EdgeLabelView",
-									"_id": "AAAAAAGII7pNl7XGTc0=",
-									"font": "Arial;13;0",
-									"left": 349,
-									"top": 554,
-									"width": 92,
-									"height": 26,
-									"alpha": 1.5707963267948966,
-									"distance": 15,
-									"edgePosition": 1,
-									"text": "Makes API calls to",
-									"wordWrap": true
-								},
-								{
 									"_type": "C4RelationshipView",
 									"_id": "AAAAAAGII7pNlrXCePw=",
 									"_parent": {
@@ -4077,9 +4063,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 351,
-											"top": 374,
+											"top": 381,
 											"width": 101,
-											"height": 26,
+											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
 											"hostEdge": {
@@ -4289,7 +4275,7 @@
 											"left": 912,
 											"top": 768,
 											"width": 166,
-											"height": 26,
+											"height": 13,
 											"text": "Mainframe Banking System",
 											"wordWrap": true
 										},
@@ -4302,7 +4288,7 @@
 											"fillColor": "#c6c6c6",
 											"font": "Arial;13;0",
 											"left": 912,
-											"top": 798,
+											"top": 785,
 											"width": 166,
 											"height": 13,
 											"text": "[Software System]",
@@ -4317,9 +4303,9 @@
 											"fillColor": "#c6c6c6",
 											"font": "Arial;13;0",
 											"left": 912,
-											"top": 827,
+											"top": 814,
 											"width": 166,
-											"height": 52,
+											"height": 39,
 											"text": "Stores all of the core banking information about customers, accounts, transactions, etc.",
 											"wordWrap": true
 										}
@@ -4932,7 +4918,7 @@
 											"left": 512,
 											"top": 193,
 											"width": 185,
-											"height": 26,
+											"height": 13,
 											"text": "[Container: Java and Spring MVC]",
 											"wordWrap": true
 										},
@@ -4945,7 +4931,7 @@
 											"fillColor": "#6dceff",
 											"font": "Arial;13;0",
 											"left": 512,
-											"top": 235,
+											"top": 222,
 											"width": 185,
 											"height": 39,
 											"text": "Delivers the static content and the internet banking single page application.",
@@ -5726,7 +5712,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -146,
-													"top": 65387,
+													"top": 65819,
 													"width": 80.89453125,
 													"height": 91,
 													"text": "Provides Internet banking functionality via a JSON/HTTPS API.",
@@ -5766,7 +5752,7 @@
 													},
 													"fillColor": "#38bcff",
 													"font": "Arial;13;1",
-													"left": 160,
+													"left": 152,
 													"top": 150,
 													"width": 217,
 													"height": 13,
@@ -5781,7 +5767,7 @@
 													},
 													"fillColor": "#38bcff",
 													"font": "Arial;13;0",
-													"left": 160,
+													"left": 152,
 													"top": 167,
 													"width": 217,
 													"height": 13,
@@ -5796,7 +5782,7 @@
 													},
 													"fillColor": "#38bcff",
 													"font": "Arial;13;0",
-													"left": 160,
+													"left": 152,
 													"top": 196,
 													"width": 217,
 													"height": 39,
@@ -5806,7 +5792,7 @@
 											],
 											"fillColor": "#38bcff",
 											"font": "Arial;13;0",
-											"left": 152,
+											"left": 144,
 											"top": 120,
 											"width": 233,
 											"height": 137,
@@ -6447,7 +6433,7 @@
 													"left": 400,
 													"top": 683,
 													"width": 129,
-													"height": 13,
+													"height": 26,
 													"text": "Sends e-mails to users.",
 													"wordWrap": true
 												}
@@ -6605,7 +6591,7 @@
 												"$ref": "AAAAAAGIIoXVHPZ2z/c="
 											},
 											"lineStyle": 1,
-											"points": "224:257;184:320;184:407",
+											"points": "220:257;184:320;184:407",
 											"descriptionLabel": {
 												"$ref": "AAAAAAGIIoujSveTzlE="
 											},
@@ -6678,7 +6664,7 @@
 												"$ref": "AAAAAAGIIoXVHPZ2z/c="
 											},
 											"lineStyle": 1,
-											"points": "283:257;296:320;393:407",
+											"points": "279:257;296:320;393:407",
 											"descriptionLabel": {
 												"$ref": "AAAAAAGIIovCtPegWY0="
 											},
@@ -6706,8 +6692,8 @@
 														"$ref": "AAAAAAGIIovP2feqBes="
 													},
 													"font": "Arial;13;0",
-													"left": 455,
-													"top": 272,
+													"left": 451,
+													"top": 271,
 													"width": 154,
 													"height": 13,
 													"alpha": 1.9583022315762182,
@@ -6729,8 +6715,8 @@
 														"$ref": "AAAAAAGIIovP2feqBes="
 													},
 													"font": "Arial;13;0",
-													"left": 455,
-													"top": 287,
+													"left": 451,
+													"top": 288,
 													"width": 88.1181640625,
 													"height": 13,
 													"alpha": -3.7230438820991623,
@@ -6751,7 +6737,7 @@
 												"$ref": "AAAAAAGIIoXVHPZ2z/c="
 											},
 											"lineStyle": 1,
-											"points": "382:257;663:427",
+											"points": "376:257;663:428",
 											"descriptionLabel": {
 												"$ref": "AAAAAAGIIovP2vetTsI="
 											},
@@ -7655,7 +7641,7 @@
 													"fontColor": "#0073ad",
 													"font": "Arial;13;0",
 													"left": 27,
-													"top": 50690,
+													"top": 50702,
 													"width": 80.89453125,
 													"height": 91,
 													"text": "Provides Internet banking functionality via a JSON/HTTPS API.",
