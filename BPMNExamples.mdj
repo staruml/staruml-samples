@@ -26,7 +26,6 @@
 								"$ref": "AAAAAAGIOHEDVDFU6Oo="
 							},
 							"name": "Shipment of a Hardware Retailer",
-							"defaultDiagram": true,
 							"ownedViews": [
 								{
 									"_type": "BPMNPoolView",
@@ -1287,8 +1286,7 @@
 							},
 							"name": "BPMNGroup1"
 						}
-					],
-					"processType": "none"
+					]
 				},
 				{
 					"_type": "BPMNProcess",
@@ -1305,7 +1303,6 @@
 								"$ref": "AAAAAAGIPDAJdLrmg8s="
 							},
 							"name": "Events",
-							"defaultDiagram": true,
 							"ownedViews": [
 								{
 									"_type": "BPMNEventView",
@@ -7607,8 +7604,7 @@
 								}
 							]
 						}
-					],
-					"processType": "none"
+					]
 				},
 				{
 					"_type": "BPMNProcess",
@@ -7974,8 +7970,416 @@
 							"instantiate": true,
 							"eventGatewayType": "parallel"
 						}
-					],
-					"processType": "none"
+					]
+				},
+				{
+					"_type": "BPMNProcess",
+					"_id": "AAAAAAGITihv4phGSlE=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Tasks",
+					"ownedElements": [
+						{
+							"_type": "BPMNDiagram",
+							"_id": "AAAAAAGITihv4phHeHA=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "Tasks",
+							"defaultDiagram": true,
+							"ownedViews": [
+								{
+									"_type": "BPMNTaskView",
+									"_id": "AAAAAAGITiio+phP2vw=",
+									"_parent": {
+										"$ref": "AAAAAAGITihv4phHeHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGITiio+phNHFA="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGITiio+phQs9A=",
+											"_parent": {
+												"$ref": "AAAAAAGITiio+phP2vw="
+											},
+											"font": "Arial;13;0",
+											"left": 61,
+											"top": 53,
+											"width": 151.00439453125,
+											"height": 62,
+											"text": "Task",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 56,
+									"top": 48,
+									"width": 161.00439453125,
+									"height": 72,
+									"nameLabel": {
+										"$ref": "AAAAAAGITiio+phQs9A="
+									}
+								},
+								{
+									"_type": "BPMNTaskView",
+									"_id": "AAAAAAGITijCsphXb6c=",
+									"_parent": {
+										"$ref": "AAAAAAGITihv4phHeHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGITijCsZhVTtw="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGITijCsphY28A=",
+											"_parent": {
+												"$ref": "AAAAAAGITijCsphXb6c="
+											},
+											"font": "Arial;13;0",
+											"left": 245,
+											"top": 53,
+											"width": 151.00439453125,
+											"height": 62,
+											"text": "Send Task",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 240,
+									"top": 48,
+									"width": 161.00439453125,
+									"height": 72,
+									"nameLabel": {
+										"$ref": "AAAAAAGITijCsphY28A="
+									}
+								},
+								{
+									"_type": "BPMNTaskView",
+									"_id": "AAAAAAGITikQIZhi6W0=",
+									"_parent": {
+										"$ref": "AAAAAAGITihv4phHeHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGITikQIJhgaf8="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGITikQIZhjeYk=",
+											"_parent": {
+												"$ref": "AAAAAAGITikQIZhi6W0="
+											},
+											"font": "Arial;13;0",
+											"left": 429,
+											"top": 53,
+											"width": 151.00439453125,
+											"height": 62,
+											"text": "Receive Task",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 424,
+									"top": 48,
+									"width": 161.00439453125,
+									"height": 72,
+									"nameLabel": {
+										"$ref": "AAAAAAGITikQIZhjeYk="
+									}
+								},
+								{
+									"_type": "BPMNTaskView",
+									"_id": "AAAAAAGITik3xJhr0k4=",
+									"_parent": {
+										"$ref": "AAAAAAGITihv4phHeHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGITik3w5hpHKM="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGITik3xJhsH9c=",
+											"_parent": {
+												"$ref": "AAAAAAGITik3xJhr0k4="
+											},
+											"font": "Arial;13;0",
+											"left": 797,
+											"top": 157,
+											"width": 151.00439453125,
+											"height": 62,
+											"text": "Service Task",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 792,
+									"top": 152,
+									"width": 161.00439453125,
+									"height": 72,
+									"nameLabel": {
+										"$ref": "AAAAAAGITik3xJhsH9c="
+									}
+								},
+								{
+									"_type": "BPMNTaskView",
+									"_id": "AAAAAAGITilka5h0egE=",
+									"_parent": {
+										"$ref": "AAAAAAGITihv4phHeHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGITilkaphyiZU="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGITilka5h1Sv0=",
+											"_parent": {
+												"$ref": "AAAAAAGITilka5h0egE="
+											},
+											"font": "Arial;13;0",
+											"left": 797,
+											"top": 53,
+											"width": 151.00439453125,
+											"height": 62,
+											"text": "User Task",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 792,
+									"top": 48,
+									"width": 161.00439453125,
+									"height": 72,
+									"nameLabel": {
+										"$ref": "AAAAAAGITilka5h1Sv0="
+									}
+								},
+								{
+									"_type": "BPMNTaskView",
+									"_id": "AAAAAAGITimD0ph9xlI=",
+									"_parent": {
+										"$ref": "AAAAAAGITihv4phHeHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGITimD0Zh7vZM="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGITimD0ph+VJI=",
+											"_parent": {
+												"$ref": "AAAAAAGITimD0ph9xlI="
+											},
+											"font": "Arial;13;0",
+											"left": 245,
+											"top": 157,
+											"width": 151.00439453125,
+											"height": 62,
+											"text": "Manual Task",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 240,
+									"top": 152,
+									"width": 161.00439453125,
+									"height": 72,
+									"nameLabel": {
+										"$ref": "AAAAAAGITimD0ph+VJI="
+									}
+								},
+								{
+									"_type": "BPMNTaskView",
+									"_id": "AAAAAAGITimrJJiHVHo=",
+									"_parent": {
+										"$ref": "AAAAAAGITihv4phHeHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGITimrJJiFvZU="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGITimrJJiIcQ8=",
+											"_parent": {
+												"$ref": "AAAAAAGITimrJJiHVHo="
+											},
+											"font": "Arial;13;0",
+											"left": 429,
+											"top": 157,
+											"width": 151.00439453125,
+											"height": 62,
+											"text": "Business Rule Task",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 424,
+									"top": 152,
+									"width": 161.00439453125,
+									"height": 72,
+									"nameLabel": {
+										"$ref": "AAAAAAGITimrJJiIcQ8="
+									}
+								},
+								{
+									"_type": "BPMNTaskView",
+									"_id": "AAAAAAGITinJpJiQ7dU=",
+									"_parent": {
+										"$ref": "AAAAAAGITihv4phHeHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGITinJpJiOw1A="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGITinJpJiRBHk=",
+											"_parent": {
+												"$ref": "AAAAAAGITinJpJiQ7dU="
+											},
+											"font": "Arial;13;0",
+											"left": 613,
+											"top": 157,
+											"width": 151.00439453125,
+											"height": 62,
+											"text": "Script Task",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 608,
+									"top": 152,
+									"width": 161.00439453125,
+									"height": 72,
+									"nameLabel": {
+										"$ref": "AAAAAAGITinJpJiRBHk="
+									}
+								},
+								{
+									"_type": "BPMNTaskView",
+									"_id": "AAAAAAGITi8FwIj8P9w=",
+									"_parent": {
+										"$ref": "AAAAAAGITihv4phHeHA="
+									},
+									"model": {
+										"$ref": "AAAAAAGITi8Fvoj68Ec="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGITi8FwIj984Y=",
+											"_parent": {
+												"$ref": "AAAAAAGITi8FwIj8P9w="
+											},
+											"font": "Arial;13;0",
+											"left": 613,
+											"top": 53,
+											"width": 151,
+											"height": 62,
+											"text": "Receive Task (Instantiate)",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 608,
+									"top": 48,
+									"width": 161,
+									"height": 72,
+									"nameLabel": {
+										"$ref": "AAAAAAGITi8FwIj984Y="
+									}
+								}
+							]
+						},
+						{
+							"_type": "BPMNTask",
+							"_id": "AAAAAAGITiio+phNHFA=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "Task"
+						},
+						{
+							"_type": "BPMNSendTask",
+							"_id": "AAAAAAGITijCsZhVTtw=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "Send Task"
+						},
+						{
+							"_type": "BPMNReceiveTask",
+							"_id": "AAAAAAGITikQIJhgaf8=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "Receive Task"
+						},
+						{
+							"_type": "BPMNServiceTask",
+							"_id": "AAAAAAGITik3w5hpHKM=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "Service Task"
+						},
+						{
+							"_type": "BPMNUserTask",
+							"_id": "AAAAAAGITilkaphyiZU=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "User Task"
+						},
+						{
+							"_type": "BPMNManualTask",
+							"_id": "AAAAAAGITimD0Zh7vZM=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "Manual Task"
+						},
+						{
+							"_type": "BPMNBusinessRuleTask",
+							"_id": "AAAAAAGITimrJJiFvZU=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "Business Rule Task"
+						},
+						{
+							"_type": "BPMNScriptTask",
+							"_id": "AAAAAAGITinJpJiOw1A=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "Script Task"
+						},
+						{
+							"_type": "BPMNReceiveTask",
+							"_id": "AAAAAAGITi8Fvoj68Ec=",
+							"_parent": {
+								"$ref": "AAAAAAGITihv4phGSlE="
+							},
+							"name": "Receive Task (Instantiate)",
+							"instantiate": true
+						}
+					]
 				}
 			]
 		}
