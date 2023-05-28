@@ -389,10 +389,10 @@
 												"$ref": "AAAAAAGIW0G8J7x7afM="
 											},
 											"font": "Arial;13;0",
-											"left": 269,
-											"top": 347,
-											"width": 87,
-											"height": 63,
+											"left": 264,
+											"top": 358,
+											"width": 97,
+											"height": 39,
 											"text": "Decide if normal post or special shipment",
 											"wordWrap": true
 										}
@@ -427,10 +427,10 @@
 												"$ref": "AAAAAAGIW0ImwLyHVmw="
 											},
 											"font": "Arial;13;0",
-											"left": 277,
-											"top": 493,
-											"width": 71.51904296875,
-											"height": 62,
+											"left": 272,
+											"top": 511,
+											"width": 81.51904296875,
+											"height": 26,
 											"text": "Package goods",
 											"wordWrap": true
 										}
@@ -555,10 +555,10 @@
 												"$ref": "AAAAAAGIW0OPCLRa8Js="
 											},
 											"font": "Arial;13;0",
-											"left": 461,
-											"top": 235,
-											"width": 87,
-											"height": 63,
+											"left": 456,
+											"top": 246,
+											"width": 97,
+											"height": 39,
 											"text": "Check if extra insurance is necessary",
 											"wordWrap": true
 										}
@@ -727,10 +727,10 @@
 												"$ref": "AAAAAAGIW0ll+LTpPQ0="
 											},
 											"font": "Arial;13;0",
-											"left": 573,
-											"top": 339,
-											"width": 87,
-											"height": 63,
+											"left": 568,
+											"top": 357,
+											"width": 97,
+											"height": 26,
 											"text": "Request quotes from carries",
 											"wordWrap": true
 										}
@@ -898,10 +898,10 @@
 												"$ref": "AAAAAAGIW07m4GZ2TIM="
 											},
 											"font": "Arial;13;0",
-											"left": 661,
-											"top": 93,
-											"width": 79,
-											"height": 63,
+											"left": 656,
+											"top": 111,
+											"width": 89,
+											"height": 26,
 											"text": "Take out extra insurance",
 											"wordWrap": true
 										}
@@ -983,10 +983,10 @@
 												"$ref": "AAAAAAGIW1B2A2aQ6hs="
 											},
 											"font": "Arial;13;0",
-											"left": 709,
-											"top": 235,
-											"width": 78,
-											"height": 62,
+											"left": 704,
+											"top": 253,
+											"width": 88,
+											"height": 26,
 											"text": "Fill in a Post label",
 											"wordWrap": true
 										}
@@ -1021,10 +1021,10 @@
 												"$ref": "AAAAAAGIW1Clx2aZarE="
 											},
 											"font": "Arial;13;0",
-											"left": 709,
-											"top": 339,
-											"width": 78,
-											"height": 62,
+											"left": 704,
+											"top": 344,
+											"width": 88,
+											"height": 52,
 											"text": "Assign a carrier & prepare paperwork",
 											"wordWrap": true
 										}
@@ -1579,10 +1579,10 @@
 												"$ref": "AAAAAAGIW1pOSyyJY9I="
 											},
 											"font": "Arial;13;0",
-											"left": 1013,
-											"top": 493,
-											"width": 78,
-											"height": 65,
+											"left": 1008,
+											"top": 499,
+											"width": 88,
+											"height": 52,
 											"text": "Add paperwork and move package to pick area",
 											"wordWrap": true
 										}
@@ -3989,10 +3989,10 @@
 												"$ref": "AAAAAAGIPInVhrOMzB0="
 											},
 											"font": "Arial;13;0",
-											"left": 653,
-											"top": 133,
-											"width": 127,
-											"height": 951,
+											"left": 648,
+											"top": 601,
+											"width": 137,
+											"height": 13,
 											"text": "SubProcess2",
 											"wordWrap": true
 										}
@@ -8916,10 +8916,10 @@
 												"$ref": "AAAAAAGITiio+phP2vw="
 											},
 											"font": "Arial;13;0",
-											"left": 61,
-											"top": 53,
-											"width": 151.00439453125,
-											"height": 62,
+											"left": 56,
+											"top": 77,
+											"width": 161.00439453125,
+											"height": 13,
 											"text": "Task",
 											"wordWrap": true
 										}
@@ -8951,10 +8951,10 @@
 												"$ref": "AAAAAAGITijCsphXb6c="
 											},
 											"font": "Arial;13;0",
-											"left": 245,
-											"top": 53,
-											"width": 151.00439453125,
-											"height": 62,
+											"left": 240,
+											"top": 77,
+											"width": 161.00439453125,
+											"height": 13,
 											"text": "Send Task",
 											"wordWrap": true
 										}
@@ -8986,10 +8986,10 @@
 												"$ref": "AAAAAAGITikQIZhi6W0="
 											},
 											"font": "Arial;13;0",
-											"left": 429,
-											"top": 53,
-											"width": 151.00439453125,
-											"height": 62,
+											"left": 424,
+											"top": 77,
+											"width": 161.00439453125,
+											"height": 13,
 											"text": "Receive Task",
 											"wordWrap": true
 										}
@@ -9021,10 +9021,10 @@
 												"$ref": "AAAAAAGITik3xJhr0k4="
 											},
 											"font": "Arial;13;0",
-											"left": 797,
-											"top": 157,
-											"width": 151.00439453125,
-											"height": 62,
+											"left": 792,
+											"top": 181,
+											"width": 161.00439453125,
+											"height": 13,
 											"text": "Service Task",
 											"wordWrap": true
 										}
@@ -9056,10 +9056,10 @@
 												"$ref": "AAAAAAGITilka5h0egE="
 											},
 											"font": "Arial;13;0",
-											"left": 797,
-											"top": 53,
-											"width": 151.00439453125,
-											"height": 62,
+											"left": 792,
+											"top": 77,
+											"width": 161.00439453125,
+											"height": 13,
 											"text": "User Task",
 											"wordWrap": true
 										}
@@ -9091,10 +9091,10 @@
 												"$ref": "AAAAAAGITimD0ph9xlI="
 											},
 											"font": "Arial;13;0",
-											"left": 245,
-											"top": 157,
-											"width": 151.00439453125,
-											"height": 62,
+											"left": 240,
+											"top": 181,
+											"width": 161.00439453125,
+											"height": 13,
 											"text": "Manual Task",
 											"wordWrap": true
 										}
@@ -9126,10 +9126,10 @@
 												"$ref": "AAAAAAGITimrJJiHVHo="
 											},
 											"font": "Arial;13;0",
-											"left": 429,
-											"top": 157,
-											"width": 151.00439453125,
-											"height": 62,
+											"left": 424,
+											"top": 181,
+											"width": 161.00439453125,
+											"height": 13,
 											"text": "Business Rule Task",
 											"wordWrap": true
 										}
@@ -9161,10 +9161,10 @@
 												"$ref": "AAAAAAGITinJpJiQ7dU="
 											},
 											"font": "Arial;13;0",
-											"left": 613,
-											"top": 157,
-											"width": 151.00439453125,
-											"height": 62,
+											"left": 608,
+											"top": 181,
+											"width": 161.00439453125,
+											"height": 13,
 											"text": "Script Task",
 											"wordWrap": true
 										}
@@ -9196,10 +9196,10 @@
 												"$ref": "AAAAAAGITi8FwIj8P9w="
 											},
 											"font": "Arial;13;0",
-											"left": 613,
-											"top": 53,
-											"width": 151,
-											"height": 62,
+											"left": 608,
+											"top": 77,
+											"width": 161,
+											"height": 13,
 											"text": "Receive Task (Instantiate)",
 											"wordWrap": true
 										}
@@ -9636,10 +9636,10 @@
 												"$ref": "AAAAAAGIW17gDCz+aho="
 											},
 											"font": "Arial;13;0",
-											"left": 205,
-											"top": 93,
-											"width": 94,
-											"height": 62,
+											"left": 200,
+											"top": 117,
+											"width": 104,
+											"height": 13,
 											"text": "Select a pizza",
 											"wordWrap": true
 										}
@@ -9674,10 +9674,10 @@
 												"$ref": "AAAAAAGIW179Zy0HGak="
 											},
 											"font": "Arial;13;0",
-											"left": 357,
-											"top": 93,
-											"width": 94,
-											"height": 62,
+											"left": 352,
+											"top": 117,
+											"width": 104,
+											"height": 13,
 											"text": "Order a pizza",
 											"wordWrap": true
 										}
@@ -9977,10 +9977,10 @@
 												"$ref": "AAAAAAGIW2CK+C1ZxF8="
 											},
 											"font": "Arial;13;0",
-											"left": 589,
-											"top": 173,
-											"width": 71.51904296875,
-											"height": 54,
+											"left": 584,
+											"top": 187,
+											"width": 81.51904296875,
+											"height": 26,
 											"text": "Ask for the pizza",
 											"wordWrap": true
 										}
@@ -10193,10 +10193,10 @@
 												"$ref": "AAAAAAGIW2MLi+gcONQ="
 											},
 											"font": "Arial;13;0",
-											"left": 853,
-											"top": 93,
-											"width": 94,
-											"height": 62,
+											"left": 848,
+											"top": 117,
+											"width": 104,
+											"height": 13,
 											"text": "Pay the pizza",
 											"wordWrap": true
 										}
@@ -10231,10 +10231,10 @@
 												"$ref": "AAAAAAGIW2NFZugn6VI="
 											},
 											"font": "Arial;13;0",
-											"left": 1013,
-											"top": 93,
-											"width": 94,
-											"height": 62,
+											"left": 1008,
+											"top": 117,
+											"width": 104,
+											"height": 13,
 											"text": "Eat the pizza",
 											"wordWrap": true
 										}
@@ -10620,10 +10620,10 @@
 												"$ref": "AAAAAAGIW2d51OiLHpI="
 											},
 											"font": "Arial;13;0",
-											"left": 397,
-											"top": 461,
-											"width": 71.51904296875,
-											"height": 54,
+											"left": 392,
+											"top": 475,
+											"width": 81.51904296875,
+											"height": 26,
 											"text": "Calm customer",
 											"wordWrap": true
 										}
@@ -10971,10 +10971,10 @@
 												"$ref": "AAAAAAGIW2o8bukXwGk="
 											},
 											"font": "Arial;13;0",
-											"left": 357,
-											"top": 605,
-											"width": 95,
-											"height": 55,
+											"left": 352,
+											"top": 625,
+											"width": 105,
+											"height": 13,
 											"text": "Bake the pizza",
 											"wordWrap": true
 										}
@@ -11054,10 +11054,10 @@
 												"$ref": "AAAAAAGIW2sdlOkx/+Q="
 											},
 											"font": "Arial;13;0",
-											"left": 589,
-											"top": 725,
-											"width": 87,
-											"height": 62,
+											"left": 584,
+											"top": 749,
+											"width": 97,
+											"height": 13,
 											"text": "Deliver the pizza",
 											"wordWrap": true
 										}
@@ -11092,10 +11092,10 @@
 												"$ref": "AAAAAAGIW2tUhOk7a34="
 											},
 											"font": "Arial;13;0",
-											"left": 733,
-											"top": 725,
-											"width": 78,
-											"height": 62,
+											"left": 728,
+											"top": 743,
+											"width": 88,
+											"height": 26,
 											"text": "Receive payment",
 											"wordWrap": true
 										}
@@ -12174,6 +12174,163 @@
 									]
 								}
 							]
+						}
+					]
+				},
+				{
+					"_type": "BPMNProcess",
+					"_id": "AAAAAAGIX4i5JsdBV+Y=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "BPMNProcess1",
+					"ownedElements": [
+						{
+							"_type": "BPMNDiagram",
+							"_id": "AAAAAAGIX4i5JsdCZmo=",
+							"_parent": {
+								"$ref": "AAAAAAGIX4i5JsdBV+Y="
+							},
+							"name": "BPMNDiagram1",
+							"ownedViews": [
+								{
+									"_type": "BPMNChoreographyTaskView",
+									"_id": "AAAAAAGIX4jIpcdIi24=",
+									"_parent": {
+										"$ref": "AAAAAAGIX4i5JsdCZmo="
+									},
+									"model": {
+										"$ref": "AAAAAAGIX4jIpcdGtLA="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIX4jIpcdJRSY=",
+											"_parent": {
+												"$ref": "AAAAAAGIX4jIpcdIi24="
+											},
+											"font": "Arial;13;0",
+											"left": 376,
+											"top": 417,
+											"width": 193,
+											"height": 13,
+											"text": "BPMNChoreographyTask1",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 376,
+									"top": 352,
+									"width": 193,
+									"height": 145,
+									"nameLabel": {
+										"$ref": "AAAAAAGIX4jIpcdJRSY="
+									}
+								},
+								{
+									"_type": "BPMNSubChoreographyView",
+									"_id": "AAAAAAGIYKZciIoeaUM=",
+									"_parent": {
+										"$ref": "AAAAAAGIX4i5JsdCZmo="
+									},
+									"model": {
+										"$ref": "AAAAAAGIYKZchooczZk="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIYKZciIofpM4=",
+											"_parent": {
+												"$ref": "AAAAAAGIYKZciIoeaUM="
+											},
+											"font": "Arial;13;0",
+											"left": 688,
+											"top": 469,
+											"width": 160.30615234375,
+											"height": 13,
+											"text": "BPMNSubChoreography1",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 688,
+									"top": 416,
+									"width": 160.30615234375,
+									"height": 120,
+									"nameLabel": {
+										"$ref": "AAAAAAGIYKZciIofpM4="
+									}
+								}
+							]
+						},
+						{
+							"_type": "BPMNChoreographyTask",
+							"_id": "AAAAAAGIX4jIpcdGtLA=",
+							"_parent": {
+								"$ref": "AAAAAAGIX4i5JsdBV+Y="
+							},
+							"name": "BPMNChoreographyTask1",
+							"initiatingParticipant": {
+								"$ref": "AAAAAAGIYHwjIW6k+Iw="
+							},
+							"upperParticipants": [
+								{
+									"$ref": "AAAAAAGIX47d/7Z3iII="
+								},
+								{
+									"$ref": "AAAAAAGIYHwjIW6k+Iw="
+								}
+							],
+							"lowerParticipants": [
+								{
+									"$ref": "AAAAAAGIX47gz7Z6FB4="
+								},
+								{
+									"$ref": "AAAAAAGIYHwsem6n51c="
+								}
+							]
+						},
+						{
+							"_type": "BPMNParticipant",
+							"_id": "AAAAAAGIX47d/7Z3iII=",
+							"_parent": {
+								"$ref": "AAAAAAGIX4i5JsdBV+Y="
+							},
+							"name": "Participant1"
+						},
+						{
+							"_type": "BPMNParticipant",
+							"_id": "AAAAAAGIX47gz7Z6FB4=",
+							"_parent": {
+								"$ref": "AAAAAAGIX4i5JsdBV+Y="
+							},
+							"name": "Participant2"
+						},
+						{
+							"_type": "BPMNParticipant",
+							"_id": "AAAAAAGIYHwjIW6k+Iw=",
+							"_parent": {
+								"$ref": "AAAAAAGIX4i5JsdBV+Y="
+							},
+							"name": "Participant3"
+						},
+						{
+							"_type": "BPMNParticipant",
+							"_id": "AAAAAAGIYHwsem6n51c=",
+							"_parent": {
+								"$ref": "AAAAAAGIX4i5JsdBV+Y="
+							},
+							"name": "Participant"
+						},
+						{
+							"_type": "BPMNSubChoreography",
+							"_id": "AAAAAAGIYKZchooczZk=",
+							"_parent": {
+								"$ref": "AAAAAAGIX4i5JsdBV+Y="
+							},
+							"name": "BPMNSubChoreography1"
 						}
 					]
 				}
