@@ -9326,7 +9326,7 @@
 											"font": "Arial;13;0",
 											"left": 61,
 											"top": 40,
-											"width": 13,
+											"width": 84.04487609863281,
 											"height": 265,
 											"text": "Pizza Customer",
 											"verticalAlignment": 3
@@ -9396,7 +9396,7 @@
 											"font": "Arial;13;0",
 											"left": 61,
 											"top": 424,
-											"width": 13,
+											"width": 69.80989074707031,
 											"height": 401,
 											"text": "Pizza vendor",
 											"verticalAlignment": 3
@@ -9440,9 +9440,9 @@
 												"$ref": "AAAAAAGIW13z5yzV270="
 											},
 											"font": "Arial;13;0",
-											"left": 83,
+											"left": 139.8098907470703,
 											"top": 424,
-											"width": 13,
+											"width": 26.012954711914062,
 											"height": 153,
 											"text": "clerk",
 											"verticalAlignment": 3
@@ -9470,9 +9470,9 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 78,
+									"left": 134.8098907470703,
 									"top": 424,
-									"width": 875,
+									"width": 818.1901092529297,
 									"height": 153,
 									"nameLabel": {
 										"$ref": "AAAAAAGIW13z5yzWUwI="
@@ -9495,9 +9495,9 @@
 												"$ref": "AAAAAAGIW14GgCzdAaE="
 											},
 											"font": "Arial;13;0",
-											"left": 83,
+											"left": 139.8098907470703,
 											"top": 577,
-											"width": 13,
+											"width": 54.83390808105469,
 											"height": 112,
 											"text": "pizza chef",
 											"verticalAlignment": 3
@@ -9519,9 +9519,9 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 78,
+									"left": 134.8098907470703,
 									"top": 577,
-									"width": 875,
+									"width": 818.1901092529297,
 									"height": 112,
 									"nameLabel": {
 										"$ref": "AAAAAAGIW14GgCzetys="
@@ -9544,9 +9544,9 @@
 												"$ref": "AAAAAAGIW14IACzlxhA="
 											},
 											"font": "Arial;13;0",
-											"left": 83,
+											"left": 139.8098907470703,
 											"top": 689,
-											"width": 13,
+											"width": 66.85890197753906,
 											"height": 136,
 											"text": "delivery boy",
 											"verticalAlignment": 3
@@ -9568,9 +9568,9 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 78,
+									"left": 134.8098907470703,
 									"top": 689,
-									"width": 875,
+									"width": 818.1901092529297,
 									"height": 136,
 									"nameLabel": {
 										"$ref": "AAAAAAGIW14IACzm5CI="
@@ -11055,9 +11055,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 584,
-											"top": 743,
+											"top": 749,
 											"width": 97,
-											"height": 26,
+											"height": 13,
 											"text": "Deliver the pizza",
 											"wordWrap": true
 										}
@@ -12212,7 +12212,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 32,
-											"width": 13,
+											"width": 72.83889770507812,
 											"height": 97,
 											"text": "VIP customer",
 											"verticalAlignment": 3
@@ -12247,7 +12247,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 160,
-											"width": 13,
+											"width": 117.63682556152344,
 											"height": 200,
 											"text": "Key account manager",
 											"verticalAlignment": 3
@@ -12305,7 +12305,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 392,
-											"width": 13,
+											"width": 123.31779479980469,
 											"height": 217,
 											"text": "1st level support agent",
 											"verticalAlignment": 3
@@ -12363,7 +12363,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 640,
-											"width": 13,
+											"width": 129.7137908935547,
 											"height": 209,
 											"text": "2nd level support agent",
 											"verticalAlignment": 3
@@ -12430,7 +12430,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 880,
-											"width": 13,
+											"width": 106.71684265136719,
 											"height": 137,
 											"text": "Software developer",
 											"verticalAlignment": 3
@@ -12909,9 +12909,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 736,
-											"top": 203,
+											"top": 209,
 											"width": 89,
-											"height": 26,
+											"height": 13,
 											"text": "Explain solution",
 											"wordWrap": true
 										}
@@ -13216,9 +13216,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 68.378662109375,
-											"top": 718.5,
+											"top": 725,
 											"width": 86.24267578125,
-											"height": 26,
+											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 36,
 											"text": "Ticket received",
@@ -13425,9 +13425,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 384,
-											"top": 527,
+											"top": 533,
 											"width": 124.15625,
-											"height": 26,
+											"height": 13,
 											"text": "Ask 2nd level support",
 											"wordWrap": true
 										}
@@ -13948,9 +13948,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 176,
-											"top": 687,
+											"top": 693,
 											"width": 124.15625,
-											"height": 26,
+											"height": 13,
 											"text": "Handle 2nd level issue",
 											"wordWrap": true
 										}
@@ -13986,9 +13986,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 392,
-											"top": 775,
+											"top": 781,
 											"width": 81,
-											"height": 26,
+											"height": 13,
 											"text": "Ask developer",
 											"wordWrap": true
 										}
@@ -16402,9 +16402,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 128,
-											"top": 143,
+											"top": 149,
 											"width": 137,
-											"height": 26,
+											"height": 13,
 											"text": "Customer has a problem",
 											"wordWrap": true
 										}
@@ -16540,9 +16540,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 328,
-											"top": 143,
+											"top": 149,
 											"width": 137,
-											"height": 26,
+											"height": 13,
 											"text": "Get problem description",
 											"wordWrap": true
 										}
@@ -18866,6 +18866,364 @@
 									}
 								}
 							]
+						}
+					]
+				},
+				{
+					"_type": "BPMNProcess",
+					"_id": "AAAAAAGIZYyj4rxPMfE=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Conversations",
+					"ownedElements": [
+						{
+							"_type": "BPMNDiagram",
+							"_id": "AAAAAAGIZYyj4rxQJZ4=",
+							"_parent": {
+								"$ref": "AAAAAAGIZYyj4rxPMfE="
+							},
+							"name": "Conversations",
+							"ownedViews": [
+								{
+									"_type": "BPMNConversationView",
+									"_id": "AAAAAAGIZYzm3rxYoHw=",
+									"_parent": {
+										"$ref": "AAAAAAGIZYyj4rxQJZ4="
+									},
+									"model": {
+										"$ref": "AAAAAAGIZYzm3rxWOTU="
+									},
+									"subViews": [
+										{
+											"_type": "NodeLabelView",
+											"_id": "AAAAAAGIZYzm3rxZIFk=",
+											"_parent": {
+												"$ref": "AAAAAAGIZYzm3rxYoHw="
+											},
+											"model": {
+												"$ref": "AAAAAAGIZYzm3rxWOTU="
+											},
+											"font": "Arial;13;0",
+											"left": 215.306884765625,
+											"top": 213.5,
+											"width": 121.38623046875,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 36,
+											"text": "BPMNConversation1",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 248,
+									"top": 160,
+									"width": 57,
+									"height": 49,
+									"nameLabel": {
+										"$ref": "AAAAAAGIZYzm3rxZIFk="
+									}
+								},
+								{
+									"_type": "BPMNPoolView",
+									"_id": "AAAAAAGIZZCBNz1n30U=",
+									"_parent": {
+										"$ref": "AAAAAAGIZYyj4rxQJZ4="
+									},
+									"model": {
+										"$ref": "AAAAAAGIZZCBNj1ljzM="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGIZZCBOD1oOdM=",
+											"_parent": {
+												"$ref": "AAAAAAGIZZCBNz1n30U="
+											},
+											"font": "Arial;13;0",
+											"left": 421,
+											"top": 96,
+											"width": 13,
+											"height": 116.208984375,
+											"text": "BPMNParticipant1",
+											"verticalAlignment": 3
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 416,
+									"top": 96,
+									"width": 116.208984375,
+									"height": 116.208984375,
+									"nameLabel": {
+										"$ref": "AAAAAAGIZZCBOD1oOdM="
+									}
+								},
+								{
+									"_type": "BPMNConversationLinkView",
+									"_id": "AAAAAAGIZZCZsD1vuAE=",
+									"_parent": {
+										"$ref": "AAAAAAGIZYyj4rxQJZ4="
+									},
+									"model": {
+										"$ref": "AAAAAAGIZZCZsD1tNiU="
+									},
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIZZCBNz1n30U="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIZYzm3rxYoHw="
+									},
+									"lineStyle": 1,
+									"points": "305:179;415:162"
+								},
+								{
+									"_type": "BPMNConversationView",
+									"_id": "AAAAAAGIZZOT8L7QzXs=",
+									"_parent": {
+										"$ref": "AAAAAAGIZYyj4rxQJZ4="
+									},
+									"model": {
+										"$ref": "AAAAAAGIZZOT8L7OZiQ="
+									},
+									"subViews": [
+										{
+											"_type": "NodeLabelView",
+											"_id": "AAAAAAGIZZOT8b7R4l4=",
+											"_parent": {
+												"$ref": "AAAAAAGIZZOT8L7QzXs="
+											},
+											"model": {
+												"$ref": "AAAAAAGIZZOT8L7OZiQ="
+											},
+											"font": "Arial;13;0",
+											"left": 210.241455078125,
+											"top": 349,
+											"width": 144.51708984375,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 36,
+											"text": "BPMNSubConversation1",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 264,
+									"top": 304,
+									"width": 38,
+									"height": 32,
+									"nameLabel": {
+										"$ref": "AAAAAAGIZZOT8b7R4l4="
+									}
+								},
+								{
+									"_type": "BPMNConversationView",
+									"_id": "AAAAAAGIZZO23b7as8Y=",
+									"_parent": {
+										"$ref": "AAAAAAGIZYyj4rxQJZ4="
+									},
+									"model": {
+										"$ref": "AAAAAAGIZZO23b7Y7tg="
+									},
+									"subViews": [
+										{
+											"_type": "NodeLabelView",
+											"_id": "AAAAAAGIZZO23b7bx/s=",
+											"_parent": {
+												"$ref": "AAAAAAGIZZO23b7as8Y="
+											},
+											"model": {
+												"$ref": "AAAAAAGIZZO23b7Y7tg="
+											},
+											"font": "Arial;13;0",
+											"left": 354.609619140625,
+											"top": 357,
+											"width": 143.78076171875,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 36,
+											"text": "BPMNCallConversation1",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 408,
+									"top": 312,
+									"width": 38,
+									"height": 32,
+									"nameLabel": {
+										"$ref": "AAAAAAGIZZO23b7bx/s="
+									}
+								},
+								{
+									"_type": "BPMNConversationView",
+									"_id": "AAAAAAGIZZXFcYNLRUM=",
+									"_parent": {
+										"$ref": "AAAAAAGIZYyj4rxQJZ4="
+									},
+									"model": {
+										"$ref": "AAAAAAGIZZXFcINJYI0="
+									},
+									"subViews": [
+										{
+											"_type": "NodeLabelView",
+											"_id": "AAAAAAGIZZXFcYNMgP4=",
+											"_parent": {
+												"$ref": "AAAAAAGIZZXFcYNLRUM="
+											},
+											"model": {
+												"$ref": "AAAAAAGIZZXFcINJYI0="
+											},
+											"font": "Arial;13;0",
+											"left": 490.609619140625,
+											"top": 357,
+											"width": 143.78076171875,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 36,
+											"text": "BPMNCallConversation2",
+											"wordWrap": true
+										}
+									],
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 544,
+									"top": 312,
+									"width": 38,
+									"height": 32,
+									"nameLabel": {
+										"$ref": "AAAAAAGIZZXFcYNMgP4="
+									}
+								},
+								{
+									"_type": "BPMNTextAnnotationView",
+									"_id": "AAAAAAGIZZzN3aWVl6k=",
+									"_parent": {
+										"$ref": "AAAAAAGIZYyj4rxQJZ4="
+									},
+									"model": {
+										"$ref": "AAAAAAGIZZzN3KWTDM0="
+									},
+									"font": "Arial;13;0",
+									"left": 72,
+									"top": 64,
+									"width": 70.7216796875,
+									"height": 38
+								},
+								{
+									"_type": "BPMNAssociationView",
+									"_id": "AAAAAAGIZZzN+qWaTxw=",
+									"_parent": {
+										"$ref": "AAAAAAGIZYyj4rxQJZ4="
+									},
+									"model": {
+										"$ref": "AAAAAAGIZZzN+qWYcBA="
+									},
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAGIZYzm3rxYoHw="
+									},
+									"tail": {
+										"$ref": "AAAAAAGIZZzN3aWVl6k="
+									},
+									"lineStyle": 1,
+									"points": "139:102;247:167"
+								}
+							]
+						},
+						{
+							"_type": "BPMNConversation",
+							"_id": "AAAAAAGIZYzm3rxWOTU=",
+							"_parent": {
+								"$ref": "AAAAAAGIZYyj4rxPMfE="
+							},
+							"name": "BPMNConversation1",
+							"ownedElements": [
+								{
+									"_type": "BPMNConversationLink",
+									"_id": "AAAAAAGIZZCZsD1tNiU=",
+									"_parent": {
+										"$ref": "AAAAAAGIZYzm3rxWOTU="
+									},
+									"source": {
+										"$ref": "AAAAAAGIZYzm3rxWOTU="
+									},
+									"target": {
+										"$ref": "AAAAAAGIZZCBNj1ljzM="
+									}
+								}
+							]
+						},
+						{
+							"_type": "BPMNParticipant",
+							"_id": "AAAAAAGIZZCBNj1ljzM=",
+							"_parent": {
+								"$ref": "AAAAAAGIZYyj4rxPMfE="
+							},
+							"name": "BPMNParticipant1"
+						},
+						{
+							"_type": "BPMNSubConversation",
+							"_id": "AAAAAAGIZZOT8L7OZiQ=",
+							"_parent": {
+								"$ref": "AAAAAAGIZYyj4rxPMfE="
+							},
+							"name": "BPMNSubConversation1"
+						},
+						{
+							"_type": "BPMNCallConversation",
+							"_id": "AAAAAAGIZZO23b7Y7tg=",
+							"_parent": {
+								"$ref": "AAAAAAGIZYyj4rxPMfE="
+							},
+							"name": "BPMNCallConversation1"
+						},
+						{
+							"_type": "BPMNCallConversation",
+							"_id": "AAAAAAGIZZXFcINJYI0=",
+							"_parent": {
+								"$ref": "AAAAAAGIZYyj4rxPMfE="
+							},
+							"name": "BPMNCallConversation2",
+							"calledRef": {
+								"$ref": "AAAAAAGIZZlJRnk/khU="
+							}
+						},
+						{
+							"_type": "BPMNCollaboration",
+							"_id": "AAAAAAGIZZlJRnk/khU=",
+							"_parent": {
+								"$ref": "AAAAAAGIZYyj4rxPMfE="
+							},
+							"name": "BPMNCollaboration1"
+						},
+						{
+							"_type": "BPMNTextAnnotation",
+							"_id": "AAAAAAGIZZzN3KWTDM0=",
+							"_parent": {
+								"$ref": "AAAAAAGIZYyj4rxPMfE="
+							},
+							"name": "BPMNTextAnnotation1",
+							"ownedElements": [
+								{
+									"_type": "BPMNAssociation",
+									"_id": "AAAAAAGIZZzN+qWYcBA=",
+									"_parent": {
+										"$ref": "AAAAAAGIZZzN3KWTDM0="
+									},
+									"source": {
+										"$ref": "AAAAAAGIZZzN3KWTDM0="
+									},
+									"target": {
+										"$ref": "AAAAAAGIZYzm3rxWOTU="
+									}
+								}
+							],
+							"text": "Text annotation"
 						}
 					]
 				}
