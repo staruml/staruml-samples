@@ -8632,8 +8632,8 @@
 												"$ref": "AAAAAAGIPgMvN4CEw1M="
 											},
 											"font": "Arial;13;0",
-											"left": 38.16552734375,
-											"top": 325,
+											"left": 158.16552734375,
+											"top": 101,
 											"width": 146.6689453125,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -8644,8 +8644,8 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 96,
-									"top": 280,
+									"left": 216,
+									"top": 56,
 									"width": 32,
 									"height": 32,
 									"nameLabel": {
@@ -8672,8 +8672,8 @@
 												"$ref": "AAAAAAGIPgNHJ4COWxA="
 											},
 											"font": "Arial;13;0",
-											"left": 37.806884765625,
-											"top": 429,
+											"left": 285.806884765625,
+											"top": 101,
 											"width": 147.38623046875,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -8684,8 +8684,8 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 96,
-									"top": 384,
+									"left": 344,
+									"top": 56,
 									"width": 32,
 									"height": 32,
 									"nameLabel": {
@@ -8712,8 +8712,8 @@
 												"$ref": "AAAAAAGIPgNZSYCYBNI="
 											},
 											"font": "Arial;13;0",
-											"left": 41.77734375,
-											"top": 533,
+											"left": 401.77734375,
+											"top": 101,
 											"width": 139.4453125,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -8724,8 +8724,8 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 96,
-									"top": 488,
+									"left": 456,
+									"top": 56,
 									"width": 32,
 									"height": 32,
 									"nameLabel": {
@@ -9326,7 +9326,7 @@
 											"font": "Arial;13;0",
 											"left": 61,
 											"top": 40,
-											"width": 84.04487609863281,
+											"width": 13,
 											"height": 265,
 											"text": "Pizza Customer",
 											"verticalAlignment": 3
@@ -9396,7 +9396,7 @@
 											"font": "Arial;13;0",
 											"left": 61,
 											"top": 424,
-											"width": 69.80989074707031,
+											"width": 13,
 											"height": 401,
 											"text": "Pizza vendor",
 											"verticalAlignment": 3
@@ -9440,9 +9440,9 @@
 												"$ref": "AAAAAAGIW13z5yzV270="
 											},
 											"font": "Arial;13;0",
-											"left": 139.8098907470703,
+											"left": 83,
 											"top": 424,
-											"width": 26.012954711914062,
+											"width": 13,
 											"height": 153,
 											"text": "clerk",
 											"verticalAlignment": 3
@@ -9470,9 +9470,9 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 134.8098907470703,
+									"left": 78,
 									"top": 424,
-									"width": 818.1901092529297,
+									"width": 875,
 									"height": 153,
 									"nameLabel": {
 										"$ref": "AAAAAAGIW13z5yzWUwI="
@@ -9495,9 +9495,9 @@
 												"$ref": "AAAAAAGIW14GgCzdAaE="
 											},
 											"font": "Arial;13;0",
-											"left": 139.8098907470703,
+											"left": 83,
 											"top": 577,
-											"width": 54.83390808105469,
+											"width": 13,
 											"height": 112,
 											"text": "pizza chef",
 											"verticalAlignment": 3
@@ -9519,9 +9519,9 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 134.8098907470703,
+									"left": 78,
 									"top": 577,
-									"width": 818.1901092529297,
+									"width": 875,
 									"height": 112,
 									"nameLabel": {
 										"$ref": "AAAAAAGIW14GgCzetys="
@@ -9544,9 +9544,9 @@
 												"$ref": "AAAAAAGIW14IACzlxhA="
 											},
 											"font": "Arial;13;0",
-											"left": 139.8098907470703,
+											"left": 83,
 											"top": 689,
-											"width": 66.85890197753906,
+											"width": 13,
 											"height": 136,
 											"text": "delivery boy",
 											"verticalAlignment": 3
@@ -9568,9 +9568,9 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 134.8098907470703,
+									"left": 78,
 									"top": 689,
-									"width": 818.1901092529297,
+									"width": 875,
 									"height": 136,
 									"nameLabel": {
 										"$ref": "AAAAAAGIW14IACzm5CI="
@@ -12212,7 +12212,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 32,
-											"width": 72.83889770507812,
+											"width": 13,
 											"height": 97,
 											"text": "VIP customer",
 											"verticalAlignment": 3
@@ -12247,7 +12247,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 160,
-											"width": 117.63682556152344,
+											"width": 13,
 											"height": 200,
 											"text": "Key account manager",
 											"verticalAlignment": 3
@@ -12305,7 +12305,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 392,
-											"width": 123.31779479980469,
+											"width": 13,
 											"height": 217,
 											"text": "1st level support agent",
 											"verticalAlignment": 3
@@ -12363,7 +12363,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 640,
-											"width": 129.7137908935547,
+											"width": 13,
 											"height": 209,
 											"text": "2nd level support agent",
 											"verticalAlignment": 3
@@ -12430,7 +12430,7 @@
 											"font": "Arial;13;0",
 											"left": 37,
 											"top": 880,
-											"width": 106.71684265136719,
+											"width": 13,
 											"height": 137,
 											"text": "Software developer",
 											"verticalAlignment": 3
@@ -18902,7 +18902,7 @@
 												"$ref": "AAAAAAGIZfpgffiLOSo="
 											},
 											"font": "Arial;13;0",
-											"left": 64,
+											"left": 48,
 											"top": 37,
 											"width": 121,
 											"height": 13,
@@ -18912,7 +18912,7 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 64,
+									"left": 48,
 									"top": 32,
 									"width": 121,
 									"height": 185,
@@ -18978,7 +18978,7 @@
 										"$ref": "AAAAAAGIZfpgffiLOSo="
 									},
 									"lineStyle": 2,
-									"points": "184:80;408:80"
+									"points": "168:80;408:80"
 								},
 								{
 									"_type": "BPMNPoolView",
@@ -18999,7 +18999,7 @@
 											"font": "Arial;13;0",
 											"left": 656,
 											"top": 45,
-											"width": 116.208984375,
+											"width": 137,
 											"height": 13,
 											"text": "Supplier",
 											"verticalAlignment": 3
@@ -19009,7 +19009,7 @@
 									"containerChangeable": true,
 									"left": 656,
 									"top": 40,
-									"width": 116.208984375,
+									"width": 137,
 									"height": 169,
 									"nameLabel": {
 										"$ref": "AAAAAAGIZf4ji1JGHX4="
@@ -19069,7 +19069,7 @@
 												"$ref": "AAAAAAGIZf55w1JXtH0="
 											},
 											"font": "Arial;13;0",
-											"left": 64,
+											"left": 48,
 											"top": 365,
 											"width": 128,
 											"height": 13,
@@ -19079,7 +19079,7 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 64,
+									"left": 48,
 									"top": 360,
 									"width": 128,
 									"height": 80,
@@ -19105,7 +19105,7 @@
 												"$ref": "AAAAAAGIZf6UW1Jg5PM="
 											},
 											"font": "Arial;13;0",
-											"left": 64,
+											"left": 48,
 											"top": 557,
 											"width": 141.50439453125,
 											"height": 13,
@@ -19115,7 +19115,7 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 64,
+									"left": 48,
 									"top": 552,
 									"width": 141.50439453125,
 									"height": 80,
@@ -19179,7 +19179,7 @@
 											"font": "Arial;13;0",
 											"left": 648,
 											"top": 365,
-											"width": 136,
+											"width": 145,
 											"height": 13,
 											"text": "Shipper",
 											"verticalAlignment": 3
@@ -19189,7 +19189,7 @@
 									"containerChangeable": true,
 									"left": 648,
 									"top": 360,
-									"width": 136,
+									"width": 145,
 									"height": 96,
 									"nameLabel": {
 										"$ref": "AAAAAAGIZf8Eu1Jzxdg="
@@ -19215,7 +19215,7 @@
 											"font": "Arial;13;0",
 											"left": 656,
 											"top": 565,
-											"width": 128,
+											"width": 137,
 											"height": 13,
 											"text": "Insurance",
 											"verticalAlignment": 3
@@ -19225,7 +19225,7 @@
 									"containerChangeable": true,
 									"left": 656,
 									"top": 560,
-									"width": 128,
+									"width": 137,
 									"height": 88,
 									"nameLabel": {
 										"$ref": "AAAAAAGIZf8Yr1J8PBc="
@@ -19325,9 +19325,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 215.9034423828125,
-											"top": 119,
+											"top": 125.5,
 											"width": 75.193115234375,
-											"height": 39,
+											"height": 26,
 											"alpha": -4.59923822316953,
 											"distance": 44.28317965096906,
 											"text": "Delivery / Dispatch Plan",
@@ -19404,12 +19404,12 @@
 												"$ref": "AAAAAAGIZf/+e1KpUYA="
 											},
 											"font": "Arial;13;0",
-											"left": 743.9034423828125,
-											"top": 254.5,
+											"left": 735.9034423828125,
+											"top": 247.5,
 											"width": 59.193115234375,
 											"height": 26,
-											"alpha": -0.08454374125173414,
-											"distance": 59.21148537234985,
+											"alpha": 0.05875581122147206,
+											"distance": 51.088159097779204,
 											"text": "Delivery Planning",
 											"wordWrap": true
 										}
@@ -19524,9 +19524,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 525.806884765625,
-											"top": 614.5,
+											"top": 621,
 											"width": 121.38623046875,
-											"height": 26,
+											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 36,
 											"text": "Coverage Notification",
@@ -19603,12 +19603,12 @@
 												"$ref": "AAAAAAGIZgChcVLbbH0="
 											},
 											"font": "Arial;13;0",
-											"left": 23.9034423828125,
-											"top": 286.5,
-											"width": 83.193115234375,
+											"left": 43.95172119140625,
+											"top": 254.5,
+											"width": 75.0965576171875,
 											"height": 26,
-											"alpha": -3.1877137766898036,
-											"distance": 65.06919393998976,
+											"alpha": -3.761842236097724,
+											"distance": 60.21627686929839,
 											"text": "Delivery Monitoring",
 											"wordWrap": true
 										}
@@ -19643,12 +19643,12 @@
 												"$ref": "AAAAAAGIZgDBe1LllDs="
 											},
 											"font": "Arial;13;0",
-											"left": 16,
-											"top": 469.5,
-											"width": 81,
+											"left": 48,
+											"top": 503.5,
+											"width": 73,
 											"height": 26,
-											"alpha": -3.1955941612490837,
-											"distance": 74.10802925459562,
+											"alpha": -2.579094624448335,
+											"distance": 54.378304497290095,
 											"text": "Clearance Monitoring",
 											"wordWrap": true
 										}
@@ -19796,7 +19796,7 @@
 										"$ref": "AAAAAAGIZfpgffiLOSo="
 									},
 									"lineStyle": 2,
-									"points": "184:184;240:184"
+									"points": "168:184;240:184"
 								},
 								{
 									"_type": "BPMNConversationView",
@@ -19912,7 +19912,7 @@
 										"$ref": "AAAAAAGIZgNRWlM61No="
 									},
 									"lineStyle": 2,
-									"points": "408:304;176:304;176:360"
+									"points": "408:304;160:304;160:360"
 								},
 								{
 									"_type": "BPMNConversationLinkView",
@@ -19988,7 +19988,7 @@
 										"$ref": "AAAAAAGIZf55w1JXtH0="
 									},
 									"lineStyle": 2,
-									"points": "191:392;240:392"
+									"points": "175:392;240:392"
 								},
 								{
 									"_type": "BPMNConversationLinkView",
@@ -20108,9 +20108,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 264.9034423828125,
-											"top": 735,
+											"top": 741.5,
 											"width": 99.193115234375,
-											"height": 39,
+											"height": 26,
 											"alpha": -1.5707960995221693,
 											"distance": 44,
 											"text": "Truck Breakdown Provision",
@@ -20317,7 +20317,7 @@
 										"$ref": "AAAAAAGIZf6UW1Jg5PM="
 									},
 									"lineStyle": 2,
-									"points": "205:586;240:586"
+									"points": "189:586;240:586"
 								},
 								{
 									"_type": "BPMNConversationLinkView",
