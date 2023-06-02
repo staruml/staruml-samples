@@ -1,0 +1,1281 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Mindmap Example",
+	"ownedElements": [
+		{
+			"_type": "MMMindmap",
+			"_id": "AAAAAAGIeiwnwIL6pHs=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Mindmap",
+			"ownedElements": [
+				{
+					"_type": "MMMindmapDiagram",
+					"_id": "AAAAAAGIeiwnwIL7tNI=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Business Management Mindmap",
+					"ownedViews": [
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIei4NjoMHgvQ=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIei4NjYMFkA0="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIei4NjoMIqxU=",
+									"_parent": {
+										"$ref": "AAAAAAGIei4NjoMHgvQ="
+									},
+									"font": "Arial;13;0",
+									"left": 48,
+									"top": 280,
+									"width": 75.96630859375,
+									"height": 26,
+									"text": "Business Plan",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 48,
+							"top": 272,
+							"width": 75.96630859375,
+							"height": 38,
+							"nameLabel": {
+								"$ref": "AAAAAAGIei4NjoMIqxU="
+							}
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIei5W/YMQ0dc=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIei5W/YMO+0s="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIei5W/YMRr20=",
+									"_parent": {
+										"$ref": "AAAAAAGIei5W/YMQ0dc="
+									},
+									"font": "Arial;13;0",
+									"left": 216,
+									"top": 119,
+									"width": 75.96630859375,
+									"height": 13,
+									"text": "Sales",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 216,
+							"top": 112,
+							"width": 75.96630859375,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIei5W/YMRr20="
+							}
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIei5mz4MZxX8=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIei5mz4MX6Fo="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIei5mz4MaYjA=",
+									"_parent": {
+										"$ref": "AAAAAAGIei5mz4MZxX8="
+									},
+									"font": "Arial;13;0",
+									"left": 192,
+									"top": 503,
+									"width": 98.3671875,
+									"height": 13,
+									"text": "Administration",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 192,
+							"top": 496,
+							"width": 98.3671875,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIei5mz4MaYjA="
+							}
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIei6v2oMjCDk=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIei6v2YMhp0M="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIei6v2oMkDMc=",
+									"_parent": {
+										"$ref": "AAAAAAGIei6v2oMjCDk="
+									},
+									"font": "Arial;13;0",
+									"left": 392,
+									"top": 39,
+									"width": 75.96630859375,
+									"height": 13,
+									"text": "Inventory",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 392,
+							"top": 32,
+							"width": 75.96630859375,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIei6v2oMkDMc="
+							}
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIei7DaIMsqPU=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIei7DaIMqI/I="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIei7DaIMtChg=",
+									"_parent": {
+										"$ref": "AAAAAAGIei7DaIMsqPU="
+									},
+									"font": "Arial;13;0",
+									"left": 392,
+									"top": 95,
+									"width": 75.96630859375,
+									"height": 13,
+									"text": "Tracking",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 392,
+							"top": 88,
+							"width": 75.96630859375,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIei7DaIMtChg="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIej9OOvNVxa0=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIej9OOfNTXCs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIei5W/YMQ0dc="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIei4NjoMHgvQ="
+							},
+							"lineStyle": 1,
+							"points": "104:271;240:137"
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIej9ZmvNax90=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIej9ZmvNY4Kk="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIei5mz4MZxX8="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIei4NjoMHgvQ="
+							},
+							"lineStyle": 1,
+							"points": "99:310;231:495"
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIej9p6vNftwY=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIej9p6vNdhVw="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIei6v2oMjCDk="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIei5W/YMQ0dc="
+							},
+							"lineStyle": 1,
+							"points": "282:111;400:57"
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIej9wXvNkntw=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIej9wXfNi6Gw="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIei7DaIMsqPU="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIei5W/YMQ0dc="
+							},
+							"lineStyle": 1,
+							"points": "292:119;391:105"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekAyS/OG7WU=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekAyS/OEOJA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekAyS/OHshM=",
+									"_parent": {
+										"$ref": "AAAAAAGIekAyS/OG7WU="
+									},
+									"font": "Arial;13;0",
+									"left": 200.96630859375,
+									"top": 199,
+									"width": 75.96630859375,
+									"height": 13,
+									"text": "Marketing",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 200.96630859375,
+							"top": 192,
+							"width": 75.96630859375,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekAyS/OHshM="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekAyVvOOwm4=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekAyVvOMu8w="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIei4NjoMHgvQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekAyS/OG7WU="
+							},
+							"lineStyle": 1,
+							"points": "215:217;119:271"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekBRmfOUOLk=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekBRmfOScxw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekBRmfOV2qM=",
+									"_parent": {
+										"$ref": "AAAAAAGIekBRmfOUOLk="
+									},
+									"font": "Arial;13;0",
+									"left": 224,
+									"top": 383,
+									"width": 75.96630859375,
+									"height": 13,
+									"text": "Finance",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 224,
+							"top": 376,
+							"width": 75.96630859375,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekBRmfOV2qM="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekBRqPOcX1M=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekBRp/OajsY="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIei4NjoMHgvQ="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekBRmfOUOLk="
+							},
+							"lineStyle": 1,
+							"points": "238:375;121:310"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekCB7/OjXvM=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekCB7vOhS1Y="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekCB7/OkXDI=",
+									"_parent": {
+										"$ref": "AAAAAAGIekCB7/OjXvM="
+									},
+									"font": "Arial;13;0",
+									"left": 384,
+									"top": 168,
+									"width": 75.96630859375,
+									"height": 26,
+									"text": "Press Release",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 160,
+							"width": 75.96630859375,
+							"height": 38,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekCB7/OkXDI="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekCB/vOrvKQ=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekCB/vOppXw="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIekAyS/OG7WU="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekCB7/OjXvM="
+							},
+							"lineStyle": 1,
+							"points": "383:183;277:198"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekCMIvOwRA4=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekCMIvOup9U="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekCMIvOxLWs=",
+									"_parent": {
+										"$ref": "AAAAAAGIekCMIvOwRA4="
+									},
+									"font": "Arial;13;0",
+									"left": 376,
+									"top": 223,
+									"width": 97,
+									"height": 13,
+									"text": "Social Media",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 376,
+							"top": 216,
+							"width": 97,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekCMIvOxLWs="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekCMMvO4QQY=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekCMMvO2seY="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIekAyS/OG7WU="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekCMIvOwRA4="
+							},
+							"lineStyle": 1,
+							"points": "375:222;277:209"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekCN5PO9ZUg=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekCN5PO7otA="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekCN5PO+r3c=",
+									"_parent": {
+										"$ref": "AAAAAAGIekCN5PO9ZUg="
+									},
+									"font": "Arial;13;0",
+									"left": 384,
+									"top": 271,
+									"width": 75.96630859375,
+									"height": 13,
+									"text": "SEO",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 264,
+							"width": 75.96630859375,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekCN5PO+r3c="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekCN8/PF2v4=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekCN8/PDckk="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIekAyS/OG7WU="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekCN5PO9ZUg="
+							},
+							"lineStyle": 1,
+							"points": "388:263;271:217"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekCPTfPKfSo=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekCPTfPIuqs="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekCPTfPLVdU=",
+									"_parent": {
+										"$ref": "AAAAAAGIekCPTfPKfSo="
+									},
+									"font": "Arial;13;0",
+									"left": 384,
+									"top": 319,
+									"width": 92.35595703125,
+									"height": 13,
+									"text": "Blog/Website",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 312,
+							"width": 92.35595703125,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekCPTfPLVdU="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekCPXvPSNr0=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekCPXvPQeBs="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIekAyS/OG7WU="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekCPTfPKfSo="
+							},
+							"lineStyle": 1,
+							"points": "408:311;259:217"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekEuFvPlkBA=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekEuFvPjTws="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekEuF/PmqjY=",
+									"_parent": {
+										"$ref": "AAAAAAGIekEuFvPlkBA="
+									},
+									"font": "Arial;13;0",
+									"left": 384.96630859375,
+									"top": 399,
+									"width": 79.58447265625,
+									"height": 13,
+									"text": "Investment",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384.96630859375,
+							"top": 392,
+							"width": 79.58447265625,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekEuF/PmqjY="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekEuLPPtpUk=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekEuLPPrU2Y="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIekBRmfOUOLk="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekEuFvPlkBA="
+							},
+							"lineStyle": 1,
+							"points": "384:400;300:392"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekEv4fPy94w=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekEv4fPwfOw="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekEv4vPzOWk=",
+									"_parent": {
+										"$ref": "AAAAAAGIekEv4fPy94w="
+									},
+									"font": "Arial;13;0",
+									"left": 384.96630859375,
+									"top": 439,
+									"width": 75.96630859375,
+									"height": 13,
+									"text": "Payroll",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384.96630859375,
+							"top": 432,
+							"width": 75.96630859375,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekEv4vPzOWk="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekEv8PP6qEM=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekEv8PP4hVk="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIekBRmfOUOLk="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekEv4fPy94w="
+							},
+							"lineStyle": 1,
+							"points": "385:431;298:401"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekEw2PP/nmc=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekEw2PP9FSs="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekEw2PQA5B0=",
+									"_parent": {
+										"$ref": "AAAAAAGIekEw2PP/nmc="
+									},
+									"font": "Arial;13;0",
+									"left": 384.96630859375,
+									"top": 487,
+									"width": 75.96630859375,
+									"height": 13,
+									"text": "Shares",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384.96630859375,
+							"top": 480,
+							"width": 75.96630859375,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekEw2PQA5B0="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekEw5fQH6oA=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekEw5fQFlnQ="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIekBRmfOUOLk="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekEw2PP/nmc="
+							},
+							"lineStyle": 1,
+							"points": "402:479;281:401"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekGDCPQS1Dk=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekGDCPQQqsk="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekGDCPQTXZk=",
+									"_parent": {
+										"$ref": "AAAAAAGIekGDCPQS1Dk="
+									},
+									"font": "Arial;13;0",
+									"left": 384,
+									"top": 559,
+									"width": 75.96630859375,
+									"height": 13,
+									"text": "HR",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 552,
+							"width": 75.96630859375,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekGDCPQTXZk="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekGDGvQaNCQ=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekGDGfQYKmM="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIei5mz4MZxX8="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekGDCPQS1Dk="
+							},
+							"lineStyle": 1,
+							"points": "383:552;282:521"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekGD3vQfwM8=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekGD3vQdcX4="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekGD3vQgRAw=",
+									"_parent": {
+										"$ref": "AAAAAAGIekGD3vQfwM8="
+									},
+									"font": "Arial;13;0",
+									"left": 384,
+									"top": 607,
+									"width": 86.078125,
+									"height": 13,
+									"text": "Recruitment",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 384,
+							"top": 600,
+							"width": 86.078125,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekGD3vQgRAw="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekGD7vQnymE=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekGD7fQlJNA="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIei5mz4MZxX8="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekGD3vQfwM8="
+							},
+							"lineStyle": 1,
+							"points": "403:599;263:521"
+						},
+						{
+							"_type": "MMNodeView",
+							"_id": "AAAAAAGIekGEwPQsrs4=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekGEwPQqY30="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIekGEwPQtu2M=",
+									"_parent": {
+										"$ref": "AAAAAAGIekGEwPQsrs4="
+									},
+									"font": "Arial;13;0",
+									"left": 376,
+									"top": 663,
+									"width": 91.8798828125,
+									"height": 13,
+									"text": "Management",
+									"wordWrap": true
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 376,
+							"top": 656,
+							"width": 91.8798828125,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIekGEwPQtu2M="
+							}
+						},
+						{
+							"_type": "MMEdgeView",
+							"_id": "AAAAAAGIekGE0PQ0utg=",
+							"_parent": {
+								"$ref": "AAAAAAGIeiwnwIL7tNI="
+							},
+							"model": {
+								"$ref": "AAAAAAGIekGEz/Qycvc="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGIei5mz4MZxX8="
+							},
+							"tail": {
+								"$ref": "AAAAAAGIekGEwPQsrs4="
+							},
+							"lineStyle": 1,
+							"points": "406:655;255:521"
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIei4NjYMFkA0=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Business Plan",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIej9OOfNTXCs=",
+							"_parent": {
+								"$ref": "AAAAAAGIei4NjYMFkA0="
+							},
+							"source": {
+								"$ref": "AAAAAAGIei4NjYMFkA0="
+							},
+							"target": {
+								"$ref": "AAAAAAGIei5W/YMO+0s="
+							}
+						},
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIej9ZmvNY4Kk=",
+							"_parent": {
+								"$ref": "AAAAAAGIei4NjYMFkA0="
+							},
+							"source": {
+								"$ref": "AAAAAAGIei4NjYMFkA0="
+							},
+							"target": {
+								"$ref": "AAAAAAGIei5mz4MX6Fo="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIei5W/YMO+0s=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Sales",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIej9p6vNdhVw=",
+							"_parent": {
+								"$ref": "AAAAAAGIei5W/YMO+0s="
+							},
+							"source": {
+								"$ref": "AAAAAAGIei5W/YMO+0s="
+							},
+							"target": {
+								"$ref": "AAAAAAGIei6v2YMhp0M="
+							}
+						},
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIej9wXfNi6Gw=",
+							"_parent": {
+								"$ref": "AAAAAAGIei5W/YMO+0s="
+							},
+							"source": {
+								"$ref": "AAAAAAGIei5W/YMO+0s="
+							},
+							"target": {
+								"$ref": "AAAAAAGIei7DaIMqI/I="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIei5mz4MX6Fo=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Administration"
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIei6v2YMhp0M=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Inventory"
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIei7DaIMqI/I=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Tracking"
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekAyS/OEOJA=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Marketing",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekAyVvOMu8w=",
+							"_parent": {
+								"$ref": "AAAAAAGIekAyS/OEOJA="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekAyS/OEOJA="
+							},
+							"target": {
+								"$ref": "AAAAAAGIei4NjYMFkA0="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekBRmfOScxw=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Finance",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekBRp/OajsY=",
+							"_parent": {
+								"$ref": "AAAAAAGIekBRmfOScxw="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekBRmfOScxw="
+							},
+							"target": {
+								"$ref": "AAAAAAGIei4NjYMFkA0="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekCB7vOhS1Y=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Press Release",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekCB/vOppXw=",
+							"_parent": {
+								"$ref": "AAAAAAGIekCB7vOhS1Y="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekCB7vOhS1Y="
+							},
+							"target": {
+								"$ref": "AAAAAAGIekAyS/OEOJA="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekCMIvOup9U=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Social Media",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekCMMvO2seY=",
+							"_parent": {
+								"$ref": "AAAAAAGIekCMIvOup9U="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekCMIvOup9U="
+							},
+							"target": {
+								"$ref": "AAAAAAGIekAyS/OEOJA="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekCN5PO7otA=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "SEO",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekCN8/PDckk=",
+							"_parent": {
+								"$ref": "AAAAAAGIekCN5PO7otA="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekCN5PO7otA="
+							},
+							"target": {
+								"$ref": "AAAAAAGIekAyS/OEOJA="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekCPTfPIuqs=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Blog/Website",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekCPXvPQeBs=",
+							"_parent": {
+								"$ref": "AAAAAAGIekCPTfPIuqs="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekCPTfPIuqs="
+							},
+							"target": {
+								"$ref": "AAAAAAGIekAyS/OEOJA="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekEuFvPjTws=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Investment",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekEuLPPrU2Y=",
+							"_parent": {
+								"$ref": "AAAAAAGIekEuFvPjTws="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekEuFvPjTws="
+							},
+							"target": {
+								"$ref": "AAAAAAGIekBRmfOScxw="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekEv4fPwfOw=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Payroll",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekEv8PP4hVk=",
+							"_parent": {
+								"$ref": "AAAAAAGIekEv4fPwfOw="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekEv4fPwfOw="
+							},
+							"target": {
+								"$ref": "AAAAAAGIekBRmfOScxw="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekEw2PP9FSs=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Shares",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekEw5fQFlnQ=",
+							"_parent": {
+								"$ref": "AAAAAAGIekEw2PP9FSs="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekEw2PP9FSs="
+							},
+							"target": {
+								"$ref": "AAAAAAGIekBRmfOScxw="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekGDCPQQqsk=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "HR",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekGDGfQYKmM=",
+							"_parent": {
+								"$ref": "AAAAAAGIekGDCPQQqsk="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekGDCPQQqsk="
+							},
+							"target": {
+								"$ref": "AAAAAAGIei5mz4MX6Fo="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekGD3vQdcX4=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Recruitment",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekGD7fQlJNA=",
+							"_parent": {
+								"$ref": "AAAAAAGIekGD3vQdcX4="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekGD3vQdcX4="
+							},
+							"target": {
+								"$ref": "AAAAAAGIei5mz4MX6Fo="
+							}
+						}
+					]
+				},
+				{
+					"_type": "MMNode",
+					"_id": "AAAAAAGIekGEwPQqY30=",
+					"_parent": {
+						"$ref": "AAAAAAGIeiwnwIL6pHs="
+					},
+					"name": "Management",
+					"ownedElements": [
+						{
+							"_type": "MMEdge",
+							"_id": "AAAAAAGIekGEz/Qycvc=",
+							"_parent": {
+								"$ref": "AAAAAAGIekGEwPQqY30="
+							},
+							"source": {
+								"$ref": "AAAAAAGIekGEwPQqY30="
+							},
+							"target": {
+								"$ref": "AAAAAAGIei5mz4MX6Fo="
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
