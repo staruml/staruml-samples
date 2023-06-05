@@ -1,7 +1,7 @@
 {
 	"_type": "Project",
 	"_id": "AAAAAAFF+h6SjaM2Hec=",
-	"name": "Untitled",
+	"name": "Wireframe Examples",
 	"ownedElements": [
 		{
 			"_type": "WFWireframe",
@@ -219,9 +219,9 @@
 										"$ref": "AAAAAAGIiaVM8BQwipo="
 									},
 									"font": "Arial;13;0",
-									"left": 152,
+									"left": 120,
 									"top": 279,
-									"width": 60.814453125,
+									"width": 90.4326171875,
 									"height": 13,
 									"text": "Button1",
 									"wordWrap": true
@@ -232,9 +232,9 @@
 							},
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 152,
+							"left": 120,
 							"top": 272,
-							"width": 60.814453125,
+							"width": 90.4326171875,
 							"height": 25,
 							"nameLabel": {
 								"$ref": "AAAAAAGIiaVM8BQx+rE="
@@ -278,9 +278,9 @@
 									"font": "Arial;13;0",
 									"left": 232,
 									"top": 201,
-									"width": 31.07177734375,
+									"width": 51.2890625,
 									"height": 13,
-									"text": "Text1",
+									"text": "StarUML",
 									"wordWrap": true
 								}
 							],
@@ -291,7 +291,7 @@
 							"containerChangeable": true,
 							"left": 232,
 							"top": 200,
-							"width": 31.07177734375,
+							"width": 51.2890625,
 							"height": 13,
 							"nameLabel": {
 								"$ref": "AAAAAAGIiaVauxQ6edA="
@@ -412,78 +412,6 @@
 							}
 						},
 						{
-							"_type": "WFTextView",
-							"_id": "AAAAAAGIibx8w0LdG5g=",
-							"_parent": {
-								"$ref": "AAAAAAGIiY4J0eMXg9E="
-							},
-							"model": {
-								"$ref": "AAAAAAGIiaVauhQ3NzI="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAGIibx8w0LexFQ=",
-									"_parent": {
-										"$ref": "AAAAAAGIibx8w0LdG5g="
-									},
-									"font": "Arial;13;0",
-									"left": 291,
-									"top": 582,
-									"width": 31.07177734375,
-									"height": 13,
-									"text": "Text1",
-									"horizontalAlignment": 0,
-									"wordWrap": true
-								}
-							],
-							"font": "Arial;13;0",
-							"containerChangeable": true,
-							"left": 291,
-							"top": 581,
-							"width": 31.07177734375,
-							"height": 13,
-							"nameLabel": {
-								"$ref": "AAAAAAGIibx8w0LexFQ="
-							}
-						},
-						{
-							"_type": "WFCheckboxView",
-							"_id": "AAAAAAGIibyCkELjctA=",
-							"_parent": {
-								"$ref": "AAAAAAGIiY4J0eMXg9E="
-							},
-							"model": {
-								"$ref": "AAAAAAGIibjOmLI+E9w="
-							},
-							"subViews": [
-								{
-									"_type": "LabelView",
-									"_id": "AAAAAAGIibyCkULkkLI=",
-									"_parent": {
-										"$ref": "AAAAAAGIibyCkELjctA="
-									},
-									"font": "Arial;13;0",
-									"left": 438,
-									"top": 505,
-									"width": 65.0380859375,
-									"height": 13,
-									"text": "Checkbox1",
-									"horizontalAlignment": 0,
-									"wordWrap": true
-								}
-							],
-							"font": "Arial;13;0",
-							"containerChangeable": true,
-							"left": 420,
-							"top": 504,
-							"width": 83.0380859375,
-							"height": 13,
-							"nameLabel": {
-								"$ref": "AAAAAAGIibyCkULkkLI="
-							}
-						},
-						{
 							"_type": "WFRadioView",
 							"_id": "AAAAAAGIibyIMULpu1g=",
 							"_parent": {
@@ -553,6 +481,179 @@
 							"nameLabel": {
 								"$ref": "AAAAAAGIibyOpkLwUdo="
 							}
+						},
+						{
+							"_type": "WFMobileFrameView",
+							"_id": "AAAAAAGIiodLUWkuGtU=",
+							"_parent": {
+								"$ref": "AAAAAAGIiY4J0eMXg9E="
+							},
+							"model": {
+								"$ref": "AAAAAAGIiodLUGksXDc="
+							},
+							"font": "Arial;13;0",
+							"left": 56,
+							"top": 600,
+							"width": 401,
+							"height": 689
+						},
+						{
+							"_type": "WFWebFrameView",
+							"_id": "AAAAAAGIip+aOy+KL60=",
+							"_parent": {
+								"$ref": "AAAAAAGIiY4J0eMXg9E="
+							},
+							"model": {
+								"$ref": "AAAAAAGIip+aOS+I57Q="
+							},
+							"containedViews": [
+								{
+									"$ref": "AAAAAAGIibyCkELjctA="
+								},
+								{
+									"$ref": "AAAAAAGIibx8w0LdG5g="
+								},
+								{
+									"$ref": "AAAAAAGIiqm9DJexFQA="
+								}
+							],
+							"font": "Arial;13;0",
+							"left": 192,
+							"top": 632,
+							"width": 417,
+							"height": 369
+						},
+						{
+							"_type": "WFDesktopFrameView",
+							"_id": "AAAAAAGIiqFjixOdtWw=",
+							"_parent": {
+								"$ref": "AAAAAAGIiY4J0eMXg9E="
+							},
+							"model": {
+								"$ref": "AAAAAAGIiqFjihObaxA="
+							},
+							"font": "Arial;13;0",
+							"left": 512,
+							"top": 600,
+							"width": 168,
+							"height": 160
+						},
+						{
+							"_type": "WFCheckboxView",
+							"_id": "AAAAAAGIibyCkELjctA=",
+							"_parent": {
+								"$ref": "AAAAAAGIiY4J0eMXg9E="
+							},
+							"model": {
+								"$ref": "AAAAAAGIibjOmLI+E9w="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIibyCkULkkLI=",
+									"_parent": {
+										"$ref": "AAAAAAGIibyCkELjctA="
+									},
+									"font": "Arial;13;0",
+									"left": 226,
+									"top": 761,
+									"width": 65.0380859375,
+									"height": 13,
+									"text": "Checkbox1",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGIip+aOy+KL60="
+							},
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 208,
+							"top": 760,
+							"width": 83.0380859375,
+							"height": 13,
+							"nameLabel": {
+								"$ref": "AAAAAAGIibyCkULkkLI="
+							}
+						},
+						{
+							"_type": "WFTextView",
+							"_id": "AAAAAAGIibx8w0LdG5g=",
+							"_parent": {
+								"$ref": "AAAAAAGIiY4J0eMXg9E="
+							},
+							"model": {
+								"$ref": "AAAAAAGIiaVauhQ3NzI="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIibx8w0LexFQ=",
+									"_parent": {
+										"$ref": "AAAAAAGIibx8w0LdG5g="
+									},
+									"font": "Arial;26;0",
+									"left": 368,
+									"top": 674,
+									"width": 102.578125,
+									"height": 26,
+									"text": "StarUML",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGIip+aOy+KL60="
+							},
+							"font": "Arial;26;0",
+							"containerChangeable": true,
+							"left": 368,
+							"top": 672,
+							"width": 102.578125,
+							"height": 26,
+							"nameLabel": {
+								"$ref": "AAAAAAGIibx8w0LexFQ="
+							}
+						},
+						{
+							"_type": "WFDropdownView",
+							"_id": "AAAAAAGIiqm9DJexFQA=",
+							"_parent": {
+								"$ref": "AAAAAAGIiY4J0eMXg9E="
+							},
+							"model": {
+								"$ref": "AAAAAAGIiqm9C5evCoc="
+							},
+							"subViews": [
+								{
+									"_type": "LabelView",
+									"_id": "AAAAAAGIiqm9DJeyUFA=",
+									"_parent": {
+										"$ref": "AAAAAAGIiqm9DJexFQA="
+									},
+									"font": "Arial;13;0",
+									"left": 216,
+									"top": 790,
+									"width": 82.4853515625,
+									"height": 13,
+									"text": "Dropdown1",
+									"horizontalAlignment": 0,
+									"wordWrap": true
+								}
+							],
+							"containerView": {
+								"$ref": "AAAAAAGIip+aOy+KL60="
+							},
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 208,
+							"top": 784,
+							"width": 98.4853515625,
+							"height": 25,
+							"nameLabel": {
+								"$ref": "AAAAAAGIiqm9DJeyUFA="
+							}
 						}
 					]
 				},
@@ -613,30 +714,64 @@
 							"name": "Switch1"
 						},
 						{
-							"_type": "WFText",
-							"_id": "AAAAAAGIiaVauhQ3NzI=",
-							"_parent": {
-								"$ref": "AAAAAAGIiaNMaUb75oo="
-							},
-							"name": "Text1"
-						},
-						{
 							"_type": "WFRadio",
 							"_id": "AAAAAAGIibhSfbI1jMw=",
 							"_parent": {
 								"$ref": "AAAAAAGIiaNMaUb75oo="
 							},
 							"name": "Radio1"
-						},
+						}
+					]
+				},
+				{
+					"_type": "WFMobileFrame",
+					"_id": "AAAAAAGIiodLUGksXDc=",
+					"_parent": {
+						"$ref": "AAAAAAGIiY4J0eMWtrU="
+					},
+					"name": "MobileFrame1"
+				},
+				{
+					"_type": "WFWebFrame",
+					"_id": "AAAAAAGIip+aOS+I57Q=",
+					"_parent": {
+						"$ref": "AAAAAAGIiY4J0eMWtrU="
+					},
+					"name": "WebFrame1",
+					"ownedElements": [
 						{
 							"_type": "WFCheckbox",
 							"_id": "AAAAAAGIibjOmLI+E9w=",
 							"_parent": {
-								"$ref": "AAAAAAGIiaNMaUb75oo="
+								"$ref": "AAAAAAGIip+aOS+I57Q="
 							},
 							"name": "Checkbox1"
+						},
+						{
+							"_type": "WFText",
+							"_id": "AAAAAAGIiaVauhQ3NzI=",
+							"_parent": {
+								"$ref": "AAAAAAGIip+aOS+I57Q="
+							},
+							"name": "StarUML"
+						},
+						{
+							"_type": "WFDropdown",
+							"_id": "AAAAAAGIiqm9C5evCoc=",
+							"_parent": {
+								"$ref": "AAAAAAGIip+aOS+I57Q="
+							},
+							"name": "Dropdown1"
 						}
 					]
+				},
+				{
+					"_type": "WFDesktopFrame",
+					"_id": "AAAAAAGIiqFjihObaxA=",
+					"_parent": {
+						"$ref": "AAAAAAGIiY4J0eMWtrU="
+					},
+					"name": "DesktopFrame1"
 				}
 			]
 		}
