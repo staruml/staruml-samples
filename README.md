@@ -12,3 +12,4 @@
 - **WireframeExample.mdj** - An example for Wireframe diagrams.
 - **AWSArchitectureExample.mdj** - An example for AWS architecture diagrams.
 - **GCPArchitectureExample.mdj** - An example for GCP architecture diagrams.
+- **AzureArchitectureExample.mdj** - An example for Azure architecture diagrams.
